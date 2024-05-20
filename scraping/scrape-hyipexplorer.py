@@ -1,48 +1,44 @@
 import requests
 from bs4 import BeautifulSoup
+# import lxml
 import json
 
 url = "https://www.hyipexplorer.com"
 header = { 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36', }
-req_data = {}
-
 r = requests.get(url, headers = header)
-soup = BeautifulSoup(r.content, "html.parser")
+soup = BeautifulSoup(r.content, "lxml")
+table = soup.find("div", id="content").find_all("table")[9]
 
-table1 = soup.find_all("table", attrs={'class': 'hyip', 'cellspacing': '0', 'cellpadding': '0'})
+keys = ['img1', 'hyip-program', 'star-rating', 'reviews', 'status', 'ssl-img', 'stats', 'shots-img', 'desc', 'monitored', 'hbstatus']
+values = []
 
-req_data['stickyw.gif'] = url + table1[1].find("img", attrs={'alt': 'sticky'}).get('src')
-req_data['hyip-program'] = table1[1].find("a", class_=["hyip_program"]).text
-req_data['star-rating'] = url + table1[1].find("img", attrs={'alt': '5 star rating'}).get('src')
-req_data['reviews'] = table1[1].find("span", class_=["s9"]).text
-req_data['status'] = table1[1].find("div", class_=["status"]).text
-req_data['sslfree.gif'] = url + soup.find("img", attrs={'title': 'Free SSL valid: -211 days'}).get('src')
+try:
+    values.append(url + table.find_all("img", attrs={'alt': 'sticky'})[1].get('src'))
+    values.append(table.find("a", class_=["hyip_program"]).text)
+    values.append(url + table.find_all("div", class_=["rating"])[1].img.get('src'))
+    values.append(table.find_all("div", class_=["rating"])[1].span.text)
+    values.append(table.find_all("div", class_=["status"])[1].text)
+    values.append(url + table.find_all("img", attrs={'alt': 'Free SSL'})[1].get('src'))
+    values.append(table.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'})[1].text.strip())
+    values.append(url + table.find_all("div", class_=["even"])[1].img.get('src'))
+    values.append(table.find_all("div", class_=["even"])[1].text.strip())
+    values.append(table.find_all("span", attrs={'class': 's9 gray'})[1].text.strip())
+    values.append(table.find_all("div", class_=["a_"])[1].text.strip())
+    # populating dictionary
+    req_data = {keys[i]: values[i] for i in range(len(keys))}
+    print(req_data)
+except:
+    print("There was an error.")
 
-stats = list(soup.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'}))[1]
-req_data['stats'] = stats.text.strip()
-
-desc = list(soup.find_all("div", class_=["even"]))[1]
-req_data['shots'] = url + desc.img.get('src')
-req_data['description'] = desc.text.strip()
-
-link = list(soup.find_all("a", class_=["details"]))[1].get('href')
-req_data['program details'] = url+link
-
-monitored = list(soup.find_all("span", attrs={'class': 's9 gray'}))[1]
-req_data['monitored'] = monitored.text.strip()
-
-hbstatus = list(soup.find_all("div", class_=["a_"]))[1]
-req_data['hbstatus'] = hbstatus.text.strip()
 
 # download all imgs
-all_imgs = [req_data['stickyw.gif'], req_data['star-rating'], req_data['sslfree.gif'], req_data['shots']]
-i = 1
-for img in all_imgs:
-    downloaded = requests.get(img)
-    with open(f'img{i}.jpg','wb') as f:
-        f.write(downloaded.content)
-    i += 1
+# i = 1
+# for key, val in req_data.items():
+#     if "/images" in req_data[key] or "/uploads" in req_data[key]:
+#         downloaded = requests.get(req_data[key])
+#         with open(f'img{i}.jpg','wb') as f:
+#             f.write(downloaded.content)
+#         i += 1
 
 with open('data.json', 'w') as f:     
-    json.dump(req_data, f)
-# print(req_data)
+    json.dump(req_data, f, indent=4)

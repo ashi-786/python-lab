@@ -36,21 +36,34 @@ try:
 except Exception as e:
     logs.write(f"Error during login: {str(e)}\n")
 
-# hyipexplorer using selenium
-# from selenium import webdriver
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
+# table1 = soup.find_all("table", attrs={'class': 'hyip', 'cellspacing': '0', 'cellpadding': '0'})
+# print(table1)
+# req_data['stickyw.gif'] = url + table1[1].find("img", attrs={'alt': 'sticky'}).get('src')
+# req_data['hyip-program'] = table1[1].find("a", class_=["hyip_program"]).text
+# req_data['star-rating'] = url + table1[1].find("div", class_=["rating"]).img.get('src')
+# req_data['reviews'] = table1[1].find("span", class_=["s9"]).text
+# req_data['status'] = table1[1].find("div", class_=["status"]).text
+# req_data['sslfree.gif'] = url + soup.find("img", attrs={'title': 'Free SSL valid: -212 days'}).get('src')
 
-# url = "https://www.hyipexplorer.com"
-# data = []
+# stats = list(soup.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'}))[1]
+# req_data['stats'] = stats.text.strip()
 
-# driver = webdriver.Chrome()
-# try:
-# WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="content"]/table[5]/tbody/tr[7]/td/table')))
-# td1 = driver.find_elements(By.XPATH, '//*[@id="content"]/table[5]/tbody/tr[7]/td/table')
-# print(td1)
-# img1 = td1.find_element(By.TAG_NAME, "img")
-# print(img1)
-# except:
-    # print("Page couldn't reload")
+# desc = list(soup.find_all("div", class_=["even"]))[1]
+# req_data['shots'] = url + desc.img.get('src')
+# req_data['description'] = desc.text.strip()
+
+# link = list(soup.find_all("a", class_=["details"]))[1].get('href')
+# req_data['program details'] = url+link
+
+# monitored = list(soup.find_all("span", attrs={'class': 's9 gray'}))[1]
+# req_data['monitored'] = monitored.text.strip()
+
+# hbstatus = list(soup.find_all("div", class_=["a_"]))[1]
+# req_data['hbstatus'] = hbstatus.text.strip()
+
+# table = soup.find("div", id="content").find_all("table")[9]
+# values.append(table.find_all("td", attrs={'valign': 'middle'})[1].find_all("div")[0].text.strip())
+# values.append(table.find_all("td", attrs={'valign': 'middle'})[1].find_all("div")[1].text.strip())
+# values.append(table.find_all("td", attrs={'valign': 'middle'})[1].find_all("div")[2].text.strip())
+# values.append(table.find_all("div", class_=["a_jr"])[1].text.strip())
+# values.append(table.find_all("td", attrs={'align': 'left'}))
