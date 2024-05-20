@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-# import lxml
 import json
 
 url = "https://www.hyipexplorer.com"
@@ -12,24 +11,21 @@ table = soup.find("div", id="content").find_all("table")[9]
 keys = ['img1', 'hyip-program', 'star-rating', 'reviews', 'status', 'ssl-img', 'stats', 'shots-img', 'desc', 'monitored', 'hbstatus']
 values = []
 
-try:
-    values.append(url + table.find_all("img", attrs={'alt': 'sticky'})[1].get('src'))
-    values.append(table.find("a", class_=["hyip_program"]).text)
-    values.append(url + table.find_all("div", class_=["rating"])[1].img.get('src'))
-    values.append(table.find_all("div", class_=["rating"])[1].span.text)
-    values.append(table.find_all("div", class_=["status"])[1].text)
-    values.append(url + table.find_all("img", attrs={'alt': 'Free SSL'})[1].get('src'))
-    values.append(table.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'})[1].text.strip())
-    values.append(url + table.find_all("div", class_=["even"])[1].img.get('src'))
-    values.append(table.find_all("div", class_=["even"])[1].text.strip())
-    values.append(table.find_all("span", attrs={'class': 's9 gray'})[1].text.strip())
-    values.append(table.find_all("div", class_=["a_"])[1].text.strip())
-    # populating dictionary
-    req_data = {keys[i]: values[i] for i in range(len(keys))}
-    print(req_data)
-except:
-    print("There was an error.")
-
+# extracting data
+values.append(url + table.find_all("img", attrs={'alt': 'sticky'})[1].get('src') if len(table.find_all("img", attrs={'alt': 'sticky'})) > 1 else "")
+values.append(table.find("a", class_=["hyip_program"]).text if table.find("a", class_=["hyip_program"]) else "")
+values.append(url + table.find_all("div", class_=["rating"])[1].img.get('src') if len(table.find_all("div", class_=["rating"])) > 1 else "")
+values.append(table.find_all("div", class_=["rating"])[1].span.text if len(table.find_all("div", class_=["rating"])) > 1 else "")
+values.append(table.find_all("div", class_=["status"])[1].text if len(table.find_all("div", class_=["status"])) > 1 else "")
+values.append(url + table.find_all("img", attrs={'alt': 'Free SSL'})[1].get('src') if len(table.find_all("img", attrs={'alt': 'Free SSL'})) > 1 else "")
+values.append(table.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'})[1].text.strip() if len(table.find_all("table", attrs={'cellspacing': '2', 'cellpadding': '2'})) > 1 else "")
+values.append(url + table.find_all("div", class_=["even"])[1].img.get('src') if len(table.find_all("div", class_=["even"])) > 1 else "")
+values.append(table.find_all("div", class_=["even"])[1].text.strip() if len(table.find_all("div", class_=["even"])) > 1 else "")
+values.append(table.find_all("span", attrs={'class': 's9 gray'})[1].text.strip() if len(table.find_all("span", attrs={'class': 's9 gray'})) > 1 else "")
+values.append(table.find_all("div", class_=["a_"])[1].text.strip() if len(table.find_all("div", class_=["a_"])) > 1 else "")
+# populating dictionary
+req_data = {keys[i]: values[i] for i in range(len(keys))}
+print(req_data)
 
 # download all imgs
 # i = 1
