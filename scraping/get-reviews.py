@@ -39,4 +39,4 @@ reviews_df = pd.DataFrame({'review':reviews}, index=i)
 print(reviews_df)
 
 #Writing the content of the data frame to a text file
-reviews_df.to_csv('reviews.txt', sep='t')
+reviews_df.to_csv('reviews.csv', sep='t')
