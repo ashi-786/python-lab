@@ -1,29 +1,21 @@
-"0"
-"Largest Companies in This Sector"
-"['Name', 'Last Price', '1Y Target Est.', 'Market Weight', 'Market Cap', 'Day Change %', 'YTD Return', 'Avg. Analyst Rating']"
-"['MSFT Microsoft Corporation', '429.82', '438.72', '19.45%', '3.195T', '+1.05%', '+14.30%', 'Buy']"
-"['AAPL Apple Inc.', '192.15', '185.63', '17.94%', '2.946T', '+0.58%', '-0.20%', 'Buy']"
-"['NVDA NVIDIA Corporation', '943.87', '953.90', '14.13%', '2.322T', '-0.41%', '+90.60%', 'Buy']"
-"['AVGO Broadcom Inc.', '1,402.69', '1,397.39', '3.96%', '650.035B', '-0.80%', '+25.66%', 'Buy']"
-"['ORCL Oracle Corporation', '124.61', '128.56', '2.08%', '342.478B', '+0.07%', '+18.19%', 'Buy']"
-"['CRM Salesforce, Inc.', '287.03', '341.24', '1.70%', '278.778B', '-0.01%', '+9.08%', 'Buy']"
-"['AMD Advanced Micro Devices, Inc.', '164.44', '171.63', '1.62%', '265.778B', '-1.14%', '+11.55%', 'Buy']"
-"['QCOM QUALCOMM Incorporated', '198.65', '167.79', '1.35%', '221.693B', '+0.45%', '+37.35%', 'Buy']"
-"['ADBE Adobe Inc.', '483.46', '570.75', '1.32%', '216.589B', '-0.25%', '-18.96%', 'Buy']"
-"['CSCO Cisco Systems, Inc.', '46.85', '50.32', '1.18%', '193.911B', '-0.58%', '-7.25%', 'Hold']"
-"Investing in the Technology Sector"
-"Start Investing in the Technology Sector Through These ETFs and Mutual Funds"
-"ETF Opportunities"
-"['Name', 'Last Price', 'Net Assets', 'Expense Ratio', 'YTD Return']"
-"['VGT Vanguard Information Tech ETF', '539.17', '73.524B', '0.10%', '+11.40%']"
-"['XLK SPDR Select Sector Fund - Techn', '214.51', '61.585B', '0.09%', '+11.45%']"
-"['SMH VanEck Semiconductor ETF', '233.83', '17.94B', '0.35%', '+33.72%']"
-"['IYW iShares U.S. Technology ETF', '139.80', '15.745B', '0.40%', '+13.89%']"
-"['SOXX iShares Semiconductor ETF', '231.92', '12.355B', '0.35%', '+20.77%']"
-"Mutual Fund Opportunities"
-"['Name', 'Last Price', 'Net Assets', 'Expense Ratio', 'YTD Return']"
-"['VITAX Vanguard Information Technology', '276.14', '73.524B', '0.10%', '+11.42%']"
-"['FDYNX Franklin Dynatech Fund Class C', '123.60', '23.121B', '1.08%', '+15.80%']"
-"['FDYZX Franklin DynaTech Fund Class Ad', '162.43', '23.121B', '1.08%', '+16.25%']"
-"['FKDNX Franklin Dynatech Fund Class A', '155.31', '23.121B', '1.08%', '+16.14%']"
-"['FDTRX Franlin DynaTech Fund Cl R6', '164.91', '23.121B', '1.08%', '+16.28%']"
+Name,Last Price,1Y Target Est.,Market Weight,Market Cap,Day Change %,YTD Return,Avg. Analyst Rating,Net Assets,Expense Ratio
+MSFT Microsoft Corporation,431.04,438.72,19.46%,3.204T,1.34%,14.63%,Buy,,
+AAPL Apple Inc.,192.07,185.63,17.89%,2.945T,0.54%,-0.24%,Buy,,
+NVDA NVIDIA Corporation,951.99,953.9,14.22%,2.342T,0.44%,92.24%,Buy,,
+AVGO Broadcom Inc.,"1,405.02","1,397.39",3.95%,651.113B,-0.64%,25.87%,Buy,,
+ORCL Oracle Corporation,124.88,128.56,2.08%,343.242B,0.29%,18.45%,Buy,,
+"CRM Salesforce, Inc.",286.92,341.24,1.69%,278.671B,-0.05%,9.04%,Buy,,
+"AMD Advanced Micro Devices, Inc.",165.42,171.63,1.62%,267.374B,-0.55%,12.22%,Buy,,
+QCOM QUALCOMM Incorporated,201.5,167.79,1.37%,224.874B,1.89%,39.32%,Buy,,
+ADBE Adobe Inc.,479.94,570.75,1.31%,215.013B,-0.98%,-19.55%,Buy,,
+"CSCO Cisco Systems, Inc.",46.99,50.32,1.18%,194.491B,-0.29%,-6.98%,Hold,,
+VGT Vanguard Information Tech ETF,540.22,,,,,11.62%,,73.524B,0.10%
+XLK SPDR Select Sector Fund - Techn,214.93,,,,,11.66%,,61.585B,0.09%
+SMH VanEck Semiconductor ETF,234.71,,,,,34.22%,,17.94B,0.35%
+IYW iShares U.S. Technology ETF,140.08,,,,,14.12%,,15.745B,0.40%
+SOXX iShares Semiconductor ETF,232.76,,,,,21.21%,,12.355B,0.35%
+VITAX Vanguard Information Technology,276.14,,,,,11.42%,,73.524B,0.10%
+FDYNX Franklin Dynatech Fund Class C,123.6,,,,,15.80%,,23.121B,1.08%
+FDYZX Franklin DynaTech Fund Class Ad,162.43,,,,,16.25%,,23.121B,1.08%
+FDNRX Franklin Dynatech Fd Cl R,148.61,,,,,16.03%,,23.121B,1.08%
+FKDNX Franklin Dynatech Fund Class A,155.31,,,,,16.14%,,23.121B,1.08%

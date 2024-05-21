@@ -1,201 +1,172 @@
 [
-    "Largest Companies in This Sector",
-    [
-        "Name",
-        "Last Price",
-        "1Y Target Est.",
-        "Market Weight",
-        "Market Cap",
-        "Day Change %",
-        "YTD Return",
-        "Avg. Analyst Rating"
-    ],
-    [
-        "MSFT Microsoft Corporation",
-        "426.68",
-        "438.72",
-        "19.38%",
-        "3.171T",
-        "+0.32%",
-        "+13.47%",
-        "Buy"
-    ],
-    [
-        "AAPL Apple Inc.",
-        "191.98",
-        "185.63",
-        "17.99%",
-        "2.944T",
-        "+0.49%",
-        "-0.29%",
-        "Buy"
-    ],
-    [
-        "NVDA NVIDIA Corporation",
-        "938.22",
-        "953.90",
-        "14.11%",
-        "2.308T",
-        "-1.01%",
-        "+89.46%",
-        "Buy"
-    ],
-    [
-        "AVGO Broadcom Inc.",
-        "1,400.00",
-        "1,397.39",
-        "3.97%",
-        "648.789B",
-        "-0.99%",
-        "+25.42%",
-        "Buy"
-    ],
-    [
-        "ORCL Oracle Corporation",
-        "124.06",
-        "128.56",
-        "2.08%",
-        "340.966B",
-        "-0.37%",
-        "+17.67%",
-        "Buy"
-    ],
-    [
-        "CRM Salesforce, Inc.",
-        "284.86",
-        "341.24",
-        "1.69%",
-        "276.671B",
-        "-0.77%",
-        "+8.25%",
-        "Buy"
-    ],
-    [
-        "AMD Advanced Micro Devices, Inc.",
-        "164.03",
-        "171.63",
-        "1.62%",
-        "265.131B",
-        "-1.38%",
-        "+11.28%",
-        "Buy"
-    ],
-    [
-        "QCOM QUALCOMM Incorporated",
-        "197.24",
-        "167.79",
-        "1.35%",
-        "220.12B",
-        "-0.26%",
-        "+36.38%",
-        "Buy"
-    ],
-    [
-        "ADBE Adobe Inc.",
-        "483.94",
-        "570.75",
-        "1.33%",
-        "216.805B",
-        "-0.15%",
-        "-18.88%",
-        "Buy"
-    ],
-    [
-        "CSCO Cisco Systems, Inc.",
-        "46.95",
-        "50.32",
-        "1.19%",
-        "194.325B",
-        "-0.37%",
-        "-7.06%",
-        "Hold"
-    ],
-    "Investing in the Technology Sector",
-    "Start Investing in the Technology Sector Through These ETFs and Mutual Funds",
-    "ETF Opportunities",
-    [
-        "Name",
-        "Last Price",
-        "Net Assets",
-        "Expense Ratio",
-        "YTD Return"
-    ],
-    [
-        "VGT Vanguard Information Tech ETF",
-        "537.06",
-        "73.524B",
-        "0.10%",
-        "+10.96%"
-    ],
-    [
-        "XLK SPDR Select Sector Fund - Techn",
-        "213.69",
-        "61.585B",
-        "0.09%",
-        "+11.02%"
-    ],
-    [
-        "SMH VanEck Semiconductor ETF",
-        "232.64",
-        "17.94B",
-        "0.35%",
-        "+33.04%"
-    ],
-    [
-        "IYW iShares U.S. Technology ETF",
-        "139.27",
-        "15.745B",
-        "0.40%",
-        "+13.46%"
-    ],
-    [
-        "SOXX iShares Semiconductor ETF",
-        "230.84",
-        "12.355B",
-        "0.35%",
-        "+20.21%"
-    ],
-    "Mutual Fund Opportunities",
-    [
-        "Name",
-        "Last Price",
-        "Net Assets",
-        "Expense Ratio",
-        "YTD Return"
-    ],
-    [
-        "VITAX Vanguard Information Technology",
-        "276.14",
-        "73.524B",
-        "0.10%",
-        "+11.42%"
-    ],
-    [
-        "FDYNX Franklin Dynatech Fund Class C",
-        "123.60",
-        "23.121B",
-        "1.08%",
-        "+15.80%"
-    ],
-    [
-        "FDYZX Franklin DynaTech Fund Class Ad",
-        "162.43",
-        "23.121B",
-        "1.08%",
-        "+16.25%"
-    ],
-    [
-        "FKDNX Franklin Dynatech Fund Class A",
-        "155.31",
-        "23.121B",
-        "1.08%",
-        "+16.14%"
-    ],
-    [
-        "FDTRX Franlin DynaTech Fund Cl R6",
-        "164.91",
-        "23.121B",
-        "1.08%",
-        "+16.28%"
-    ]
+    {
+        "Name": "MSFT Microsoft Corporation",
+        "Last Price": "430.82",
+        "1Y Target Est.": "438.72",
+        "Market Weight": "19.45%",
+        "Market Cap": "3.202T",
+        "Day Change %": "+1.29%",
+        "YTD Return": "+14.57%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "AAPL Apple Inc.",
+        "Last Price": "192.07",
+        "1Y Target Est.": "185.63",
+        "Market Weight": "17.89%",
+        "Market Cap": "2.945T",
+        "Day Change %": "+0.53%",
+        "YTD Return": "-0.25%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "NVDA NVIDIA Corporation",
+        "Last Price": "951.80",
+        "1Y Target Est.": "953.90",
+        "Market Weight": "14.22%",
+        "Market Cap": "2.341T",
+        "Day Change %": "+0.42%",
+        "YTD Return": "+92.20%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "AVGO Broadcom Inc.",
+        "Last Price": "1,404.50",
+        "1Y Target Est.": "1,397.39",
+        "Market Weight": "3.95%",
+        "Market Cap": "650.875B",
+        "Day Change %": "-0.69%",
+        "YTD Return": "+25.80%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "ORCL Oracle Corporation",
+        "Last Price": "124.83",
+        "1Y Target Est.": "128.56",
+        "Market Weight": "2.08%",
+        "Market Cap": "343.083B",
+        "Day Change %": "+0.24%",
+        "YTD Return": "+18.40%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "CRM Salesforce, Inc.",
+        "Last Price": "286.90",
+        "1Y Target Est.": "341.24",
+        "Market Weight": "1.69%",
+        "Market Cap": "278.657B",
+        "Day Change %": "-0.06%",
+        "YTD Return": "+9.03%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "AMD Advanced Micro Devices, Inc.",
+        "Last Price": "165.29",
+        "1Y Target Est.": "171.63",
+        "Market Weight": "1.62%",
+        "Market Cap": "267.162B",
+        "Day Change %": "-0.62%",
+        "YTD Return": "+12.13%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "QCOM QUALCOMM Incorporated",
+        "Last Price": "201.66",
+        "1Y Target Est.": "167.79",
+        "Market Weight": "1.37%",
+        "Market Cap": "225.047B",
+        "Day Change %": "+1.97%",
+        "YTD Return": "+39.43%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "ADBE Adobe Inc.",
+        "Last Price": "479.80",
+        "1Y Target Est.": "570.75",
+        "Market Weight": "1.31%",
+        "Market Cap": "214.95B",
+        "Day Change %": "-1.01%",
+        "YTD Return": "-19.58%",
+        "Avg. Analyst Rating": "Buy"
+    },
+    {
+        "Name": "CSCO Cisco Systems, Inc.",
+        "Last Price": "46.97",
+        "1Y Target Est.": "50.32",
+        "Market Weight": "1.18%",
+        "Market Cap": "194.393B",
+        "Day Change %": "-0.34%",
+        "YTD Return": "-7.03%",
+        "Avg. Analyst Rating": "Hold"
+    },
+    {
+        "Name": "VGT Vanguard Information Tech ETF",
+        "Last Price": "540.05",
+        "Net Assets": "73.524B",
+        "Expense Ratio": "0.10%",
+        "YTD Return": "+11.58%"
+    },
+    {
+        "Name": "XLK SPDR Select Sector Fund - Techn",
+        "Last Price": "214.85",
+        "Net Assets": "61.585B",
+        "Expense Ratio": "0.09%",
+        "YTD Return": "+11.62%"
+    },
+    {
+        "Name": "SMH VanEck Semiconductor ETF",
+        "Last Price": "234.60",
+        "Net Assets": "17.94B",
+        "Expense Ratio": "0.35%",
+        "YTD Return": "+34.16%"
+    },
+    {
+        "Name": "IYW iShares U.S. Technology ETF",
+        "Last Price": "140.01",
+        "Net Assets": "15.745B",
+        "Expense Ratio": "0.40%",
+        "YTD Return": "+14.06%"
+    },
+    {
+        "Name": "SOXX iShares Semiconductor ETF",
+        "Last Price": "232.62",
+        "Net Assets": "12.355B",
+        "Expense Ratio": "0.35%",
+        "YTD Return": "+21.13%"
+    },
+    {
+        "Name": "VITAX Vanguard Information Technology",
+        "Last Price": "276.14",
+        "Net Assets": "73.524B",
+        "Expense Ratio": "0.10%",
+        "YTD Return": "+11.42%"
+    },
+    {
+        "Name": "FDYNX Franklin Dynatech Fund Class C",
+        "Last Price": "123.60",
+        "Net Assets": "23.121B",
+        "Expense Ratio": "1.08%",
+        "YTD Return": "+15.80%"
+    },
+    {
+        "Name": "FDYZX Franklin DynaTech Fund Class Ad",
+        "Last Price": "162.43",
+        "Net Assets": "23.121B",
+        "Expense Ratio": "1.08%",
+        "YTD Return": "+16.25%"
+    },
+    {
+        "Name": "FKDNX Franklin Dynatech Fund Class A",
+        "Last Price": "155.31",
+        "Net Assets": "23.121B",
+        "Expense Ratio": "1.08%",
+        "YTD Return": "+16.14%"
+    },
+    {
+        "Name": "FDNRX Franklin Dynatech Fd Cl R",
+        "Last Price": "148.61",
+        "Net Assets": "23.121B",
+        "Expense Ratio": "1.08%",
+        "YTD Return": "+16.03%"
+    }
 ]
