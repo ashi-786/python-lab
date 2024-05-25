@@ -17,7 +17,7 @@ user_agents = [
 # scraper = cloudscraper.create_scraper()
 # r = scraper.get(url, headers=header)
 
-proxies = ['20.24.43.214:8080', '20.210.113.32:8080', '20.111.54.16:8080', '20.206.106.192:8080']
+proxies = []
 p = choice(proxies)
 print(f"Using {p}")
 try:
