@@ -239,104 +239,98 @@
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
-            "category": "Jungpferde",
-            "color": "Falbe",
+            "title": "Hannoveraner Fuchs Wallach 175cm",
+            "description": "Entspannter gro\u00dfrahmiger Dresswurwallach mit vollem Papier. Er geht alle Grundgangarten als auch Diagonalen und ist dabei sehr flei\u00dfig in der Arbeit. Er ist perfekt f\u00fcr die Freizeit oder den Amateurturniersport geeignet. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3942276",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/c972c758-b41b-450b-9763-e043b955af91.jpg",
+            "category": "Hohe Schule",
+            "color": "Fuchs",
+            "gender": "Wallach",
+            "race": "Hannoveraner",
+            "height": 175,
+            "suitablity": [
+                "ist f\u00fcr Anf\u00e4nger geeignet",
+                "ist gel\u00e4ndesicher",
+                "ist Allrounder",
+                "ist verladefromm",
+                "schmiedefromm"
+            ],
+            "education": [
+                "Dressur"
+            ],
+            "price": 22000,
+            "age": 8,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "CDE Dressurstute von Quarterback / full papers",
+            "description": "Hohe Schule: CDE Dressurstute aus dem bekannten Quarterback f\u00fcr den gehobenen Dressursport. Sie ist derzeit auf San Jorge Niveau ausgebildet ( f\u00fcr Fragen hierzu bitte anschreiben ) Cleopatra hatte auch schon ein Fohlen bei Fu\u00df, welches aber schon verkauft wurde. Auch dieses Sportpferd ist pirofrei und hat saubere R\u00f6ntgenbilder ohne Befunde./  Mehr Infos auf Anfrage!",
+            "horse_id": "3931798",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/15aff67e-e047-45db-9fb1-c4452cc0a242.jpg",
+            "category": "Hohe Schule",
+            "color": "Palomino",
+            "gender": "Stute",
+            "race": "Spanisches Sportpferd",
+            "height": 175,
+            "suitablity": [
+                "ist Allrounder"
+            ],
+            "education": [
+                "Dressur"
+            ],
+            "price": 140000,
+            "age": 7,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Palomino / full papers",
+            "description": "Fohlen: Schicker PRE Hengst mit blesse und weissen Abzeichen. Wird Endma\u00df 165cm bis 170cm erreichen.  /  Mehr Infos auf Anfrage!",
+            "horse_id": "3928844",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/0173ae75-5da8-4abf-8494-4bee56ef6334.jpg",
+            "category": "Fohlen",
+            "color": "Palomino",
             "gender": "Hengst",
             "race": "PRE",
-            "height": 163,
+            "height": 151,
             "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
-                "Zucht",
-                "Working Equitation",
+                "Dressur",
                 "Barock"
             ],
-            "price": 15000,
-            "age": 14,
+            "price": 14000,
+            "age": 2,
             "location": "Spanien, 46666, Valencia",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
-            "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
-            "category": "Angeritten",
-            "color": "Rappe",
+            "title": "PRE braune Sch\u00f6nheit / full papers",
+            "description": "Fohlen: Alicia ist eine wundersch\u00f6ne PRE Stute. Sie wird 165cm Endma\u00df erreichen und ist f\u00fcr die Zucht, Freizeit oder Dressur geeignet. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3927769",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/41695ca8-c22e-4836-a98c-bf87c02f9431.jpg",
+            "category": "Fohlen",
+            "color": "Brauner",
             "gender": "Stute",
             "race": "PRE",
-            "height": 130,
+            "height": 150,
             "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
+                "Dressur",
+                "Barock"
             ],
             "price": 5000,
             "age": 1,
@@ -345,229 +339,480 @@
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
+            "title": "PRE chilliger Hengst angeritten / full papers",
+            "description": "Angeritten: Quimba ist eine absolut coole Socke. Er ist bereits angeritten und macht seine Sache sehr gut! Er bringt einen guten Gang mit f\u00fcr die Dressur und ist h\u00e4ndelbar wie ein Wallach. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3927689",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/928446b4-0164-4499-9c09-26fd326b5bae.jpg",
+            "category": "Angeritten",
+            "color": "Brauner",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 168,
+            "suitablity": [
+                "ist angeritten",
+                "ist longiert",
+                "ist am Boden gearbeitet",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 17000,
+            "age": 4,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "S\u00fcsses PRE Stutfohlen mit Prl gen YM / full papers",
+            "description": "Fohlen: PRE Stutfohlen mit Pearl gen und Abstammung der Yeguada Militar ( Sehr gut geeigent f\u00fcr den Dressursport ) Mutter ist ebenfalls auf den Bildern zu sehen und misst 166cm. Der Vater ist 168cm.  /  Mehr Infos auf Anfrage!",
+            "horse_id": "3927550",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/df9f0f6e-39ca-4c97-9d92-44a6abffa23f.jpg",
             "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
+            "color": "Brauner",
+            "gender": "Stute",
+            "race": "Spanisches Sportpferd",
+            "height": 130,
             "suitablity": [
+                "ist tragend",
                 "ist longiert",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
-                "Dressur"
+                "Dressur",
+                "Barock"
             ],
-            "price": 8000,
-            "age": 2,
+            "price": 4000,
+            "age": 1,
             "location": "Spanien, 46666, Valencia",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
+            "title": "Tragende Cruzado Stute von Champagne / full papers",
+            "description": "Zucht: Cruazdo Sute aus gek\u00f6rtem PER isabelo Hengst und Oldenburger, bekommt 28.02. vorraussichtlich ein Fohlen mit Prl Gen. Es kann ein Papier f\u00fcr ein spanisches Sportpferd beantragt werden. Die Stute hat ordentlich go und tolle Bewegungen.  /  Mehr Infos auf Anfrage!",
+            "horse_id": "3926984",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/fe783c0d-a97f-4bce-bce8-56ec4687d30b.jpg",
+            "category": "Tragende Stute",
+            "color": "Buckskin",
+            "gender": "Stute",
+            "race": "Spanisches Sportpferd",
+            "height": 166,
             "suitablity": [
+                "ist tragend",
                 "ist longiert",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
-                "Dressur"
+                "Dressur",
+                "Barock"
             ],
-            "price": 8000,
-            "age": 2,
+            "price": 18000,
+            "age": 7,
             "location": "Spanien, 46666, Valencia",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
-            "category": "Hohe Schule",
-            "color": "Rappe",
-            "gender": "Hengst",
+            "title": "PRE champagne Stutfohlen / full papers",
+            "description": "Fohlen: PRE Stutfohlen mit Dun Aalstrich. Sie wird etwas unter Wert abgegeben aufgrund von \u00e4sthetischen Mangel. ( Nickhaut am Auge ) Sie ist dadurch nicht beeintr\u00e4chtigt aber es wird nat\u00fcrlich darauf hingewiesen von unserer Seite. Von den Eltern ebenfalls Fotos vorhanden. Auch aktuelle Videos sind vorhanden. Endma\u00df 160-163cm  /  Mehr Infos auf Anfrage!",
+            "horse_id": "3926405",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/6a1fa82d-d8bf-4310-b158-8b76aac9c386.jpg",
+            "category": "Fohlen",
+            "color": "Champagne",
+            "gender": "Stute",
             "race": "PRE",
-            "height": 164,
+            "height": 150,
             "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
-                "Dressur"
+                "Dressur",
+                "Barock"
             ],
             "price": 15000,
+            "age": 1,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Palomino Stute Remache XIII / full papers",
+            "description": "Fohlen: PRE Stutfohlen mit enormer Pr\u00e4senz sucht ein neues Zuhause! Sie tr\u00e4gt Wurzel V\u00e4terlicherseits von Remache XIII ( 2002 )  und wird um die 165 oder gr\u00f6\u00dfer. Vater ist Datilero RB ein wundersch\u00f6ner Palomino. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3925768",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/7bda0fb2-a110-484d-bb2c-d310100d3198.jpg",
+            "category": "Fohlen",
+            "color": "Palomino",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 150,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 15000,
+            "age": 1,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Perlino by PM Farol  / full papers",
+            "description": "Jungpferd: PRE Pegasu stamm aus einem tollen Paco Marti Zuchthegnsgt. Er hat einen tadellosen Charakter und ist sehr gro\u00dfrahmig und sportlich gebaut. Sein Charakter ist sehr liebenswert und er ist noch sehr babyhaft und verspielt im Umgang. Pegasu kennt bereits Trense und Sattelgewicht an der Longe. Je weiter die Ausbildung, desto mehr steigt er im Preis.l /  Mehr Infos auf Anfrage!",
+            "horse_id": "3925097",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/75350d38-eb71-4f3b-a1c7-5fa6b975e511.jpg",
+            "category": "Jungpferde",
+            "color": "Perlino",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 168,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 20000,
             "age": 3,
             "location": "Spanien, 46666, Valencia",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
+            "title": "PRE champagne Zuchtstute Peralta Bohorquez + Fohlen / full papers",
+            "description": "Zucht: Junge 3 j\u00e4hrige Zuchtsute mit ihrem ersten Fohlen bei Fu\u00df  ( Hengst ). Wir haben diesmal nur wenige gute Fotos erstellt damit die Stute keinen Stress hat mit ihrem wenigen Stunden alten Fohlen! Der Preis gilt f\u00fcr die Stute mit Fohlen. Ihre Farbgenetik ist: ggaaEEPRLPRL. Sie tr\u00e4gt Peralta, Yeguada Militar und Bohorquez  Blut in ihrer Abstamung. Das Fohlen ist ebenfalls champagne und hat typische Merkmale f\u00fcr einen Grullo ( Dun gen ). /  Mehr Infos auf Anfrage!",
+            "horse_id": "3924365",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/3f1b94b4-72fb-4b3e-884c-29fb0e7d259c.jpg",
+            "category": "Zucht",
+            "color": "Champagne",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 162,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Working Equitation",
+                "Barock",
+                "Freizeit",
+                "Dressur"
+            ],
+            "price": 40000,
+            "age": 4,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE champagne Peralta Torreluna 162cm / full papers",
+            "description": "Jungpferd: Noch ein schicker champagne Hengst mit der Farbgenetik: ggaaEEPRLPRL.  Er gibt also zu 100% immer ein Pearl Gen ab. Er ist sehr gut sozialisert und wie man an den Fotos sieht, sehr verspielt. Er tr\u00e4gt Peralta, Yeguada Militar, Bohorquez  Blut und Torreluna. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3923620",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/8ea8a68b-5e8e-4ed0-9f63-d37636fded1e.jpg",
             "category": "Jungpferde",
-            "color": "Brauner",
+            "color": "Champagne",
             "gender": "Hengst",
+            "race": "PRE",
+            "height": 162,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Working Equitation",
+                "Barock",
+                "Freizeit",
+                "Dressur"
+            ],
+            "price": 20000,
+            "age": 2,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "Cruazdo Lusitano Hispano Palominoschecke / Passport",
+            "description": "Jungpferd: Ganz schicker und charmanter Palomino Schecke ist bereit f\u00fcr die gro\u00dfe Welt! Er hat schon etwas Horsemanship Luft geschnuppert und beitet Charakterlich einen guten Grundstein f\u00fcr eine solche Ausbildung. Er zeigt sich sehr neugierig gegen\u00fcber dem Menschen und pr\u00e4sentiert sich ebenso gerne wie ein PRE. /  Mehr Infos auf Anfrage!",
+            "horse_id": "3922729",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/a0ea18bd-c015-447a-ac61-d0b51306cd88.jpg",
+            "category": "Jungpferde",
+            "color": "Tobiano-alle-Farben",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 156,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Working Equitation",
+                "Barock",
+                "Freizeit",
+                "Dressur"
+            ],
+            "price": 7000,
+            "age": 3,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE champagne Zuchtstuten / full papers",
+            "description": "Zucht: Es wird noch eine der Zuchtstuten verkauft. Sie ist gek\u00f6rt und hatte bisher 1 Fohlen gehabt. Ihre Farbgenetik ist: ggAeEPrlPr. Sie hat Peralta, Yeguada Militar und Bohorquez in ihrer Abstammung /  Mehr Infos auf Anfrage!",
+            "horse_id": "3922448",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/3417e81e-7b0a-4a2b-856d-cc49dc4e3a0c.jpg",
+            "category": "Zucht",
+            "color": "Champagne",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 163,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Zucht",
+                "Working Equitation",
+                "Barock",
+                "Dressur"
+            ],
+            "price": 40000,
+            "age": 5,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Palomino Stute f\u00fcr Sport oder Zucht / full papers",
+            "description": "Jungpferd: Kr\u00e4ftige und imposante Palomino Stute mit viel Selbstbewusstsein und Temperament f\u00fcr den Sport oder Zucht geeigent. Sehr gutes Papier mit Wurzeln aus der Yeguada Militar ( Cepellon (2004), Zedimir III ( 2001 ), Remache XIII ( 2002 ) und Lego ( 1991 ) Farbgenetik f\u00fcr die Zucht liegt ebenfalls vor: ggeeAACrC /  Mehr Infos auf Anfrage!",
+            "horse_id": "3922394",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/b36cbcbb-57d2-47c1-859e-3df54343f201.jpg",
+            "category": "Jungpferde",
+            "color": "Palomino",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 163,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 20000,
+            "age": 2,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Hengst mit PRL Gen geritten 170cm &amp; liebenswert / full papers",
+            "description": "Angeritten: Toller gro\u00dfer PRE Hengst mit sehr sanftm\u00fctigem Charakter. Er ist aktuell 170cm und wurde in allen 3 Grundgangarten geritten. Seine Farbgentik lautet: ggaaEEPrlprl /  Mehr Infos auf Anfrage!",
+            "horse_id": "3922283",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/40e9599d-27a5-4bf9-b516-e558f1169999.jpg",
+            "category": "Angeritten",
+            "color": "Rappe",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 170,
+            "suitablity": [
+                "ist angeritten",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 20000,
+            "age": 6,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Junghengst 3 Jahre Palomino best bloodlines / full papers",
+            "description": "Jungpferde:Super Nachwuchspferd f\u00fcr die Dressur oder Zucht? Triunfo tr\u00e4gt Wurzeln aus ( Remache XIII, Marsical de Torre und  Osado V ) Somit vereint er beste Abstammungen aus Cartujano, Torrelluna und Paco Marti in sich. Er ist sehr sozial im Umgang und sein ganzes Exterieur \u00fcberzeugt auf ganzer Linie. Mehr Infos auf Anfrage!",
+            "horse_id": "3922199",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/ef026661-5b78-4317-9a3b-8b735fed0ed6.jpg",
+            "category": "Jungpferde",
+            "color": "Palomino",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 162,
+            "suitablity": [
+                "ist longiert",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 20000,
+            "age": 3,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Junghengst 3 Jahre champagne / full papers",
+            "description": "Jungpferde: Sportlicher und sehr sanfter und verspielter schicker PRE in Champagne mit doppel Pearl gen! Er ist aktuell 159cm und steht im alten spanischen Typ. Er kann auch gerne gek\u00f6rt werden noch vor Ort.  Mehr Infos unter: www.caballoria.com",
+            "horse_id": "3921325",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/eb78f11f-def7-4cff-bf6e-c197c7b22516.jpg",
+            "category": "Jungpferde",
+            "color": "Champagne",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 159,
+            "suitablity": [
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Freizeit",
+                "Working Equitation",
+                "Barock",
+                "Dressur"
+            ],
+            "price": 20000,
+            "age": 3,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Tragende Zuchtstute  gek\u00f6rt 165cm / full papers",
+            "description": "Tragende Stute: Tragende Zuchtstute von Isabelo Hengst gedeckt Sie ist 165cm gro\u00df und hat einen sehr liebevollen Charakter. Sie ist nat\u00fcrlich gek\u00f6rt und hatte bereits gesunde Fohlen zur Welt gebracht. Mehr Infos unter: www.caballoria.com",
+            "horse_id": "3921211",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/1ebebef3-628d-4acf-8b1e-db65f74a4c92.jpg",
+            "category": "Tragende Stuten",
+            "color": "Buckskin",
+            "gender": "Stute",
             "race": "PRE",
             "height": 165,
             "suitablity": [
-                "ist longiert",
+                "ist eingetragene Zuchtstute",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Zucht",
+                "Working Equitation",
+                "Barock",
+                "Dressur"
+            ],
+            "price": 20000,
+            "age": 9,
+            "location": "Spanien, 46666, Valencia",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Tragende Zuchtstute mit Fohlen von Ismaeli /  full papers",
+            "description": "Tragende Stute: Bewegungsstarke und erfahrene Zuchtstute mit Fohlen bei Fu\u00df. Die Stute wird ohne Fohlen verkauft. Stute tr\u00e4gt PRl Gen und bekommt mit Champagne farbenen Deckhengst zu 100%  champagne Fohlen. Das Fohlen k\u00f6nnte sogar Dun Tr\u00e4ger sein, da es einen dunklen Kopf hat und einen Aalstrich. Mehr Infos unter: www.caballoria.com",
+            "horse_id": "3919762",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/c681d423-3231-453d-9774-21f664199cff.jpg",
+            "category": "Tragende Stuten",
+            "color": "Rappe",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 155,
+            "suitablity": [
+                "ist eingetragene Zuchtstute",
+                "ist angeritten",
+                "ist Allrounder",
                 "Barhufer",
                 "ekzemfrei"
             ],
             "education": [
                 "Dressur"
             ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
+            "price": 20000,
+            "age": 17,
+            "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
-            "gender": "Stute",
-            "race": "Lusitanos",
+            "title": "PRE Sohn von Ismaeli PM champan isabelo / 1,5 Jahre / full papers",
+            "description": "Jungpferd: Barocker und bewegungsstarker PRE in abslotuter Sonderfarbe! Er ist ein Sohn aus Ismaeli von Paco Marti und besticht mit seiner Pr\u00e4senz jeden. Seine Abstammung kann auf Anfrage eingesehen werden. Er w\u00e4chst im Herdenverband auf und zeigt sich sehr sozial. ( Offenstallhaltung ) Mehr Infos unter: www.caballoria.com",
+            "horse_id": "3917755",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/11106962-2084-4f07-8872-dec1ffed628a.jpg",
+            "category": "Jungpferde",
+            "color": "Champagne",
+            "gender": "Hengst",
+            "race": "PRE",
             "height": 155,
             "suitablity": [
                 "ist roh",
                 "ist Allrounder",
                 "halfterf\u00fchrig",
                 "Barhufer",
-                "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
-                "Freizeit",
-                "Working Equitation"
+                "Dressur"
             ],
-            "price": 6000,
+            "price": 20000,
             "age": 2,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
+            "title": "PRE Palomino 1,5 Jahre elegant sportlich / full papers",
+            "description": "Jungpferd:  Sehr eleganter PRE Typ, dressurbetont gezogen. ( Yeguada Militar )  Salvano ist noch voll im Wachstum und wird um die 166cm werden. Er kann sich bereits sehr gut bewegen und ist sehr achtsam und lieb im Umgang. Abstammung kann auf Anfrage eingesehen werden. Er w\u00e4chst im Herdenverband auf und zeigt sich sehr sozial. ( Offenstallhaltung )",
+            "horse_id": "3917221",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/3d7bfb19-f840-4571-a6a8-47a3edb16217.jpg",
             "category": "Jungpferde",
-            "color": "Falbe",
+            "color": "Palomino",
             "gender": "Hengst",
             "race": "PRE",
-            "height": 163,
+            "height": 156,
             "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Zucht",
-                "Working Equitation",
-                "Barock"
-            ],
-            "price": 15000,
-            "age": 14,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
-            "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
-            "category": "Angeritten",
-            "color": "Rappe",
-            "gender": "Stute",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
                 "halfterf\u00fchrig",
                 "Barhufer",
@@ -577,1091 +822,330 @@
                 "Dressur"
             ],
             "price": 5000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
-            "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
-            "category": "Hohe Schule",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 164,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 15000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
-            "category": "Jungpferde",
-            "color": "Brauner",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 165,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
-            "gender": "Stute",
-            "race": "Lusitanos",
-            "height": 155,
-            "suitablity": [
-                "ist roh",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "Equidenpass vorhanden",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Freizeit",
-                "Working Equitation"
-            ],
-            "price": 6000,
             "age": 2,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
-            "category": "Jungpferde",
+            "title": "Gro\u00dfer PRE Hengst f\u00fcr den Sport! Dressur oder Working / full pape",
+            "description": "Angeritten:  Sehr sportlicher und gro\u00dfrahmiger PRE Hengst mit guten Manieren und angeritten in allen 3 Grundgangarten. Principe ist kein Anf\u00e4ngerpferd und w\u00e4re am besten im Sport aufgehoben, da er gerne t\u00e4glich gearbeitet werden m\u00f6chte. Daf\u00fcr bringt er bereits gute Bewegungen mit. Er ist sehr mutig und lernwillig was sich in der Abstammung ( Yeguada Militar ) zur\u00fcckzuf\u00fchren ist. Aktuelle Videos und mehr gerne auf Anfrage! R\u00f6ntgen bereits vorhanden und pirofrei ist er auch!\r\n\r\nwww.caballoria.com",
+            "horse_id": "3916789",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/7845e3d9-bccc-4294-91f0-ef232a395323.jpg",
+            "category": "Angeritten",
+            "color": "Brauner",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 170,
+            "suitablity": "AKU vorhanden",
+            "education": [
+                "Dressur"
+            ],
+            "price": 22000,
+            "age": 5,
+            "location": "Spanien, 46666, Rafelguaraf",
+            "x_ray": "Ja",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "APSL Falbe mit Stern / full papers",
+            "description": "Fohlen: Athletisches APSL Hengstfohlen mit schwungvollen Bewegungen und vollem Papier. Tolle Eltern ( Vater 168cm & Mutter 163cm ). Er wird er um die 165cm Endstockma\u00df erreichen und deckt also auch gr\u00f6\u00dfere Reiter sp\u00e4ter mal gut ab. Abstammungen der Eltern liegen vor und k\u00f6nnen ebenfalls eingesehen werden.",
+            "horse_id": "3916711",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/8b49cea9-68a7-4853-b64a-d74b85eace2a.jpg",
+            "category": "Fohlen",
             "color": "Falbe",
             "gender": "Hengst",
-            "race": "PRE",
-            "height": 163,
+            "race": "Lusitanos",
+            "height": 150,
             "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Zucht",
-                "Working Equitation",
-                "Barock"
-            ],
-            "price": 15000,
-            "age": 14,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
-            "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
-            "category": "Angeritten",
-            "color": "Rappe",
-            "gender": "Stute",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
+                "halfterf\u00fchrig"
             ],
             "education": [
                 "Dressur"
             ],
             "price": 5000,
             "age": 1,
-            "location": "Spanien, 46666, Valencia",
+            "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
+            "title": "APSL Fuchsstute mit  Blesse / full papers",
+            "description": "Fohlen: Barockes APSL Stutfohlen mit sch\u00f6ner Blesse und vollem Papier. Tolle Eltern ( Vater 168cm & Mutter 163cm )  mit Stockma\u00df um die 165cm, deckt also auch gr\u00f6\u00dfere Reiter sp\u00e4ter mal gut ab. Abstammungen der Eltern liegen vor und k\u00f6nnen ebenfalls eingesehen werden.",
+            "horse_id": "3915517",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/7d42bd48-7e58-4ebf-96ce-e45d7cd7b73e.jpg",
             "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
-            "category": "Hohe Schule",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 164,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 15000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
-            "category": "Jungpferde",
-            "color": "Brauner",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 165,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
+            "color": "Fuchs",
             "gender": "Stute",
             "race": "Lusitanos",
-            "height": 155,
+            "height": 145,
             "suitablity": [
                 "ist roh",
                 "ist Allrounder",
+                "halfterf\u00fchrig"
+            ],
+            "education": [
+                "Dressur"
+            ],
+            "price": 7000,
+            "age": 1,
+            "location": "Spanien, 46666, Rafelguaraf",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PSL Rapphengst mit strahlender Blesse / full papers",
+            "description": "Fohlen:Herausragendes Rappfohlen mit garantierter eyecatcher Erscheinung. Tolle Eltern mit Stockma\u00df um die 165cm, deckt also auch gr\u00f6\u00dfere Reiter sp\u00e4ter mal gut ab. Abstammungen der Eltern liegen vor und k\u00f6nnen ebenfalls eingesehen werden.",
+            "horse_id": "3903232",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/79f08f4e-30cf-47c5-be95-936add7c9acf.jpg",
+            "category": "Jungpferde",
+            "color": "Rappe",
+            "gender": "Hengst",
+            "race": "Lusitanos",
+            "height": 145,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig"
+            ],
+            "education": [
+                "Dressur"
+            ],
+            "price": 10000,
+            "age": 1,
+            "location": "Spanien, 46666, Rafelguaraf",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Stutfohlen Ringo AC x PM / full papers",
+            "description": "Fohlen:Bezauberndes Stutfohlen mit herausragenden Wurzeln aus Ringo AC ( Opa ) und Paco Marti Mutter mit tollen barocken Proportionen und tollem Gangwerk f\u00fcr die Dressur oder Working Equitation.Der Vater ( Perlino ) ist 169cm und die Mutter 162cm ( Fuchs )  Weitere Informationen gerne auf Anfrage!",
+            "horse_id": "3902987",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/a2eb98ca-258d-4064-82e9-7f306c7ad585.jpg",
+            "category": "Fohlen",
+            "color": "Falbe",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 145,
+            "suitablity": [
+                "ist roh",
+                "ist Allrounder",
+                "halfterf\u00fchrig"
+            ],
+            "education": [
+                "Dressur"
+            ],
+            "price": 6500,
+            "age": 1,
+            "location": "Spanien, 41001, Sevilla",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "Big Youngster Falbe mit viel Potenzial / full papers",
+            "description": "Jungpferd: Gro\u00dfrahmiger Falbe mit toller Abstammung aus Antares, Cartujano,  Paco Marti und Yeguada Militar ( LEGO 1991 ) . Aktuell hat er ein Stockma\u00df von 167cm und wird um die 170cm noch wachsen. Velo hat ein sch\u00f6nes Gangbild weshalb er auch f\u00fcr die Dressur einen guten Eindruck machen w\u00fcrde =) Tiefgr\u00fcndigere Informationen bitte gerne auf Anfrage.",
+            "horse_id": "3899614",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/dd635fdc-733d-427e-b09f-f0a67981b522.jpg",
+            "category": "Jungpferde",
+            "color": "Falbe",
+            "gender": "Hengst",
+            "race": "PRE",
+            "height": 167,
+            "suitablity": [
+                "ist angeritten",
+                "ist longiert",
+                "ist am Boden gearbeitet",
+                "ist Allrounder",
                 "halfterf\u00fchrig",
-                "Barhufer",
-                "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
-                "Freizeit",
-                "Working Equitation"
+                "Dressur"
             ],
-            "price": 6000,
+            "price": 25000,
+            "age": 3,
+            "location": "Spanien, 41001, Sevilla",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Zuchtstute Gek\u00f6rt Rotschimmel mit Prl Gen / full papers",
+            "description": "Zucht: Es freut uns, Ihnen eine beeindruckende PRE Rotschimmelstute aus dem Jahrgang 2019 vorzustellen. Mit einem aktuellen Stockma\u00df von 164 cm besticht sie nicht nur durch ihre imposante Gr\u00f6\u00dfe, sondern auch durch ihre einzigartige Genetik.\r\n\r\nSie tr\u00e4gt ein Pearl Gen, eine seltene und begehrte Farbgenetik, die sie zu einem echten Blickfang macht.\r\nDie Stute zeigt sich in wundersch\u00f6nen barocken Linien, welche f\u00fcr die PRE-Rasse typisch sind.\r\n\r\nIhre muskul\u00f6se Erscheinung, kombiniert mit eleganten und ausdrucksstarken Bewegungen, machen sie zu einer idealen Wahl f\u00fcr Z\u00fcchter. Ihre Gangarten sind flie\u00dfend und harmonisch.\r\n\r\nF\u00fcr Interessenten, die nach einem jungen Pferd suchen, welches bereit ist, mit ihnen gemeinsam zu lernen und zu wachsen, bieten wir die M\u00f6glichkeit, die Stute gegen einen Aufpreis bereits angeritten zu erwerben.\r\n\r\nDamit erhalten Sie nicht nur ein wertvolles Pferd f\u00fcr die Zucht, sondern auch ein Pferd, das bereits erste Erfahrungen in der Arbeit unter dem Sattel gesammelt hat.\r\n\r\nAbschlie\u00dfend m\u00f6chten wir betonen, dass diese PRE Rotschimmelstute nicht nur durch ihre \u00e4u\u00dferlichen Qualit\u00e4ten \u00fcberzeugt, sondern auch durch ihr ausgeglichenes und freundliches Wesen.\r\nSie zeigt sich stets lernwillig und kooperativ und ist somit sowohl f\u00fcr ambitionierte Z\u00fcchter als auch f\u00fcr Liebhaber der PRE-Rasse eine wunderbare Wahl.\r\n\r\nNutzen Sie die Chance und lernen Sie dieses Juwel n\u00e4her kennen. Ein Pferd, das durch seine Farbgebung, seine G\u00e4nge und seinen Charakter in jeder Hinsicht zu \u00fcberzeugen wei\u00df.",
+            "horse_id": "3806440",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/2a409342-a543-418f-8cf9-01f2b597d5ad.jpg",
+            "category": "Zucht",
+            "color": "Rotschimmel",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 164,
+            "suitablity": [
+                "ist am Boden gearbeitet",
+                "ist gel\u00e4ndesicher",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Zucht",
+                "Working Equitation",
+                "Barock",
+                "Dressur"
+            ],
+            "price": 10000,
+            "age": 5,
+            "location": "Spanien, 46666, Rafelguaraf",
+            "x_ray": "Nein",
+            "full_papers": "Nein"
+        },
+        {
+            "title": "PRE Stutfohlen Educado Cartujano / full papers",
+            "description": "Fohlen: Pura Raza Espanola Stutfohlen In einem strahlenden Buckskin-Farbton geboren, verk\u00f6rpert dieses junge Fohlen die Quintessenz von Sch\u00f6nheit und Eleganz. Mit einem vollen und beeindruckenden Papier, das ihre edle Abstammung best\u00e4tigt, steht sie als Zeugnis f\u00fcr exzellente Pferdezucht.\r\nIhre Bewegungsmuster sind ein wahrer Augenschmaus. Jeder Schritt, den sie nimmt, strahlt Anmut und Kraft aus, was sie zu einer idealen Kandidatin f\u00fcr Dressurwettbewerbe macht. Ihre Eltern, beide gro\u00dfrahmig, haben nicht nur ihre beeindruckende Statur, sondern auch ihr herausragendes Temperament an sie weitergegeben.\r\nDieses Stutfohlen ist nicht nur f\u00fcr die Dressur pr\u00e4destiniert, sondern auch perfekt zur Zucht geeignet. Mit ihrer genetischen Exzellenz k\u00f6nnte sie die n\u00e4chste Generation von Spitzenpferden hervorbringen. F\u00fcr diejenigen, die nach einem zuverl\u00e4ssigen und eleganten Freizeitpartner suchen, bietet sie ebenfalls das perfekte Paket.",
+            "horse_id": "3805678",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/b089da28-e5e4-46cb-9403-312589c81e94.jpg",
+            "category": "Fohlen",
+            "color": "Buckskin",
+            "gender": "Stute",
+            "race": "PRE",
+            "height": 145,
+            "suitablity": [
+                "ist am Boden gearbeitet",
+                "ist gel\u00e4ndesicher",
+                "ist Allrounder",
+                "Barhufer",
+                "ekzemfrei"
+            ],
+            "education": [
+                "Dressur",
+                "Barock"
+            ],
+            "price": 6500,
             "age": 2,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
-            "category": "Jungpferde",
-            "color": "Falbe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 163,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Zucht",
-                "Working Equitation",
-                "Barock"
-            ],
-            "price": 15000,
-            "age": 14,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
+            "title": "PRE Escalera Zuchtstute tragend der Extraklasse! / full papers",
+            "description": "Tragende Stute: ILUMINADA\r\nMagnificent broodmare Pure Spanish breed of black coat (Homozygous, tested).\r\nSuperb origins Yeguada Militar: direct daughter of Obcecado, granddaughter of Zenzeno.\r\nProduced only beautiful foals, easy, nice, with size (his 3-year-old son is 1.65m at the withers).\r\nBroodmare that has never been ridden.\r\nPregnant (certified by ultrasound) for 2024 of Barquero JF IV, black Spanish Purebred stallion, Dressage Champion.\r\nUnborn foal guaranteed black dress.",
+            "horse_id": "3739266",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/1d27d54f-89ce-450c-8b27-6673376cf77a.jpg",
             "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
-            "category": "Angeritten",
             "color": "Rappe",
             "gender": "Stute",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 5000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
-            "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
-            "category": "Hohe Schule",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 164,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 15000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
-            "category": "Jungpferde",
-            "color": "Brauner",
-            "gender": "Hengst",
             "race": "PRE",
             "height": 165,
             "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
-            "gender": "Stute",
-            "race": "Lusitanos",
-            "height": 155,
-            "suitablity": [
                 "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
+                "direkt vom Z\u00fcchter",
                 "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
+                "Zucht",
+                "Barock",
                 "Freizeit",
-                "Working Equitation"
+                "Dressur"
             ],
-            "price": 6000,
-            "age": 2,
+            "price": 10000,
+            "age": 15,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
-            "category": "Jungpferde",
-            "color": "Falbe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 163,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Zucht",
-                "Working Equitation",
-                "Barock"
-            ],
-            "price": 15000,
-            "age": 14,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
-            "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
+            "title": "PRE barock und kompakt perfekt f\u00fcr WEO",
+            "description": "Wundersch\u00f6nes Spanisches Pferd (PRE) sucht neues Zuhause!\r\nDieses bezaubernde Pferd ist auf der Suche nach einem liebevollen Besitzer, der seine Qualit\u00e4ten zu sch\u00e4tzen wei\u00df. Mit einem vollen Papier und einer beeindruckenden Abstammung hebt sich dieses Pferd von der Masse ab. \r\n\r\nWichtiges im \u00dcberblick des Pferdes:\r\n- Alter: 3 JahreENTER- \r\n- Gr\u00f6\u00dfe: Aktuell 164 cm Stockma\u00df\r\n- Ausbildungspotenzial: Kann selbst ausgebildet werden oder geht in den Beritt\r\n- Charakter: Sehr barock und f\u00fcr Working Equitation geeignet\r\n- Pflege: Regelm\u00e4\u00dfige Zahn- und Hufpflege\r\n- Hufe: Barhufer\r\n- Temperament: Sehr menschenbezogen und freundlich\r\n- Aussehen: Beeindruckende Zeichnung im Gesicht\r\n\r\nDieses Pferd ist nicht nur eine visuelle Freude, sondern bietet auch vielseitige M\u00f6glichkeiten. Mit seinem barocken K\u00f6rperbau und seiner Arbeitsbereitschaft ist es bestens f\u00fcr die Working Equitation geeignet. Die perfekte Wahl f\u00fcr Reiter, die Wert auf Sch\u00f6nheit, Talent und eine starke Bindung zu ihrem Pferd legen.\r\nSeine Abstammung und seine volle Papiere unterstreichen seine Qualit\u00e4t und bieten eine Grundlage f\u00fcr beeindruckende Leistungen in der Zukunft. Ob Sie nach einem Begleiter f\u00fcr Freizeitritte suchen oder bereit sind, gemeinsam sportliche Ziele zu erreichen \u2013 dieses Pferd k\u00f6nnte Ihre perfekte Wahl sein.\r\n\r\nWenn Sie bereit sind, Ihrem neuen vierbeinigen Freund ein liebevolles Zuhause zu bieten und in eine gemeinsame Zukunft voller Abenteuer und Erfolge einzutauchen, kontaktieren Sie uns gerne. Wir freuen uns darauf, Ihnen mehr \u00fcber dieses au\u00dfergew\u00f6hnliche Spanische Pferd zu erz\u00e4hlen und Ihnen bei der Entscheidung zu helfen.\r\n\r\nKontaktieren Sie uns jetzt, um mehr \u00fcber dieses faszinierende Pferd zu erfahren und Ihren neuen Partner kennenzulernen!",
+            "horse_id": "3730045",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/851e9754-ec44-48e7-ba05-3fb8e2bc67b5.jpg",
             "category": "Angeritten",
-            "color": "Rappe",
-            "gender": "Stute",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 5000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
-            "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
-            "category": "Hohe Schule",
-            "color": "Rappe",
+            "color": "Blauschimmel",
             "gender": "Hengst",
             "race": "PRE",
             "height": 164,
             "suitablity": [
-                "ist longiert",
+                "ist roh",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
                 "Barhufer",
+                "direkt vom Z\u00fcchter",
+                "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
+                "Working Equitation",
+                "Barock",
+                "Freizeit",
                 "Dressur"
             ],
             "price": 15000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
+            "age": 6,
+            "location": "Spanien, 08001, Barcelona",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
-            "category": "Jungpferde",
-            "color": "Brauner",
+            "title": "PRE IMPETU 3 Jahre / Enkel von EnganosoVI / Peralta",
+            "description": "Angeritten: IMPETU ist ein wahrer Goldschatz! Er verint tolle Abstammungen in sich, wie Guardiola & Perlata. Er wurde bereits leicht angeritten was aber noch ausbauf\u00e4hig ist... er hat ja noch viel Zeit... Nat\u00fcrlich hat er volles Papier und ist k\u00f6rf\u00e4hig. \r\n\r\nMehr Infos auf Anfrage!\r\n\r\nLink --> tinyurl.com/bestdreamhorses",
+            "horse_id": "3707820",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/6f693c8a-aa1b-4692-8b53-b605159f4e92.jpg",
+            "category": "Angeritten",
+            "color": "Apfelschimmel",
             "gender": "Hengst",
             "race": "PRE",
-            "height": 165,
+            "height": 168,
             "suitablity": [
+                "ist angeritten",
                 "ist longiert",
+                "ist am Boden gearbeitet",
+                "ist gel\u00e4ndesicher",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
-            "gender": "Stute",
-            "race": "Lusitanos",
-            "height": 155,
-            "suitablity": [
-                "ist roh",
-                "ist Allrounder",
+                "ist verladefromm",
                 "halfterf\u00fchrig",
                 "Barhufer",
                 "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
-                "Freizeit",
-                "Working Equitation"
+                "Dressur",
+                "Barock"
             ],
-            "price": 6000,
-            "age": 2,
+            "price": 15000,
+            "age": 4,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"
         },
         {
-            "title": "Zuchthengst Falbe geritten / full papers",
-            "description": "Prachtvoller und stolzer Zuchthengst mit langer M\u00e4hne bietet seine Samen an und wird ebenso verkauft.Geritten wird er in allen 3 Grundgangarten im Gel\u00e4nde und auf dem Platz. Er ist kein Anf\u00e4nger Pferd aber brav im Umgang.  Er verebt seine Sch\u00f6nheit und schwungvolle Bewegungen. Seine Farbanalyse lautet: ggEeAACCRppchchzz  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3953629",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/71a1a386-60f4-4063-9b55-07ea00162c23.jpg",
-            "category": "Jungpferde",
-            "color": "Falbe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 163,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Zucht",
-                "Working Equitation",
-                "Barock"
-            ],
-            "price": 15000,
-            "age": 14,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "KWPN 2 j\u00e4hrig Hengst blesse / full papers",
-            "description": "Mega zutraulicher, verschmuster, s\u00fcsser und leichtf\u00fc\u00dfiger KWPN Jungshengst. Dressurlinie und wird um die 170cm.  /  Mehr Infos auf Anfrage!",
-            "horse_id": "3952057",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/fa0c3059-8236-4ba9-869f-e3b3fce59acb.jpg",
-            "category": "Tragende Stuten",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "KWPN",
-            "height": 160,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappstutfohlen Escalera / full papers",
-            "description": "Die bezaubernde Rappstute tr\u00e4gt Escalera Blut sich. Frida ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. Sie zeigt sich sehr sozial und verspielt in der Jungpferdegruppe. Ihr Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950807",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/61ce9553-7b2d-44cb-9caa-3ba6e97c941f.jpg",
-            "category": "Angeritten",
-            "color": "Rappe",
-            "gender": "Stute",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 6000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE schimmel Escalera / full papers",
-            "description": "PRE Schimmelfohlen mit vollem Papier. Er tr\u00e4gt ebenfalls Escalera Blutlinien in sich und ist geeigent f\u00fcr Dressur, Working Equitation als auch als Freizeitpartner. er steht derzeit in einer Jungpferdegruppe aus 3 Hengsten und 2 St\u00fctchen und zeigt sich hier sehr mutig und interessiert. Sein Endma\u00df wird um die 160 - 164cm betragen. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3950778",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/821e41fc-af85-454b-9df7-c105bf9e3694.jpg",
-            "category": "Tragende Stuten",
-            "color": "Schimmel",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 130,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 5000,
-            "age": 1,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Rappe Escalera / full papers",
-            "description": "Noch ein schicker PRE Rappe aus der Escalera Reihe. Dieser sch\u00f6ne Bursche ist \u00e4u\u00dferst menschenbezogen und sehr neugierig und aufgeschlossen. Er sucht stets den Kontakt zum Menschen. Vom Geb\u00e4ude ist er zwischen barock und sportlich. Sein Endma\u00df wird zwischen 165 und 168cm liegen. Eignung findet der s\u00fcsse als Allrounder in der Dressur, Working Equitation aber auch in der Freizeit./  Mehr Infos auf Anfrage!",
-            "horse_id": "3950213",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/c0ec496c-0de1-43f8-8cd3-c08aee6ba0f9.jpg",
-            "category": "Fohlen",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Black Escalera / full papers",
-            "description": "Sehr pr\u00e4senter und barocker PRE Rappe aus der Escalera Zucht. Er ist in einer 3er Herde der Chef und pr\u00e4sentiert sich gerne. Er ist zutraulich und noch roh. Als Endma\u00df wird er 164cm erreichen. Nat\u00fcrlich hat er volles Papier./  Mehr Infos auf Anfrage!",
-            "horse_id": "3949746",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/50deb69b-a44b-4c4f-aadd-6085a0d5f141.jpg",
-            "category": "Jungpferde",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 155,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 8000,
-            "age": 2,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Smokey Black Escalera / full papers",
-            "description": "Verspielter und barocker PRE Junghengst in der Sonderfarbe Smokey Black sucht ein neues Zuhause. Er kann sich sehr gut bewegen und gl\u00e4nzt mit einem tollen Charakter. Seine Linie eignet sich hervorragend f\u00fcr die Dressur oder Working Equitation. /  Mehr Infos auf Anfrage!",
-            "horse_id": "3948329",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/5799e433-6d5e-4159-86cc-b3575294e142.jpg",
+            "title": "PRE Valero 8 Jahre / 174cm",
+            "description": "Hohe Schule: Valero ist ein barocker, lieber  Hengst mit vollem Papier und reichlich Erfahrung unterm Sattel auf dem Platz und im Gel\u00e4nde. Er beherrscht zu den normalen Grundgangarten noch spanischen Schritt. Mehr Infos auf Anfrage!",
+            "horse_id": "3706134",
+            "image_link": "https://cdn.ehorses.media/image/blur/details/d1a603b3-04ef-424e-a475-bd22bf0140d7.jpg",
             "category": "Hohe Schule",
-            "color": "Rappe",
-            "gender": "Hengst",
-            "race": "PRE",
-            "height": 164,
-            "suitablity": [
-                "ist longiert",
-                "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 15000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "PRE Youngster f\u00fcr Dressur / full papers",
-            "description": "Dressuranw\u00e4rter mit excellenten Exterieur und sportlichen K\u00f6rperbau. \r\nSarador hat volles PRE Papier und kommt vom Z\u00fcchter, welcher sich speziell auf Dressureignung spezialisiert hat. Viele Pferde aus der Zucht sind schon auf der ganzen Welt verteilt ( Mexiko, USA, Schweden, Deutschland, Holland ... ) und ist dort auch erfolgreich im Sport vertreten. Sabador wird um die 168 bis 170cm werden.\r\n\r\nMehr Infos auf Anfrage!",
-            "horse_id": "3946461",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/b1d7a69e-964e-4562-8d56-c669637fb43d.jpg",
-            "category": "Jungpferde",
             "color": "Brauner",
             "gender": "Hengst",
             "race": "PRE",
-            "height": 165,
+            "height": 174,
             "suitablity": [
+                "ist angeritten",
                 "ist longiert",
+                "ist am Boden gearbeitet",
+                "ist gel\u00e4ndesicher",
                 "ist Allrounder",
-                "halfterf\u00fchrig",
-                "Barhufer",
-                "ekzemfrei"
-            ],
-            "education": [
-                "Dressur"
-            ],
-            "price": 16000,
-            "age": 3,
-            "location": "Spanien, 46666, Valencia",
-            "x_ray": "Nein",
-            "full_papers": "Nein"
-        },
-        {
-            "title": "Elegante Lusitanostute mit CR Gen / full papers",
-            "description": "Anmutige Lusitanostute mit typischen K\u00f6pchen eines Lusitanos, Temperament und viel Vertrauen zum Menschen. Sie ist 2 j\u00e4hrig und steht mit einer KWPN Stute zusammen aktuell. Ihre Mutter ist eine Perlino Stute und der Vater ein Fuchs. Endma\u00df wird 158cm erreichen. Einsetzbar f\u00fcr Freizeit, Zucht oder Working Equitation./ Mehr Infos auf Anfrage!",
-            "horse_id": "3944156",
-            "image_link": "https://cdn.ehorses.media/image/blur/details/dfa119eb-197d-4821-95da-8d06782f564b.jpg",
-            "category": "Tragende Stuten",
-            "color": "Brauner",
-            "gender": "Stute",
-            "race": "Lusitanos",
-            "height": 155,
-            "suitablity": [
-                "ist roh",
-                "ist Allrounder",
+                "ist verladefromm",
                 "halfterf\u00fchrig",
                 "Barhufer",
                 "Equidenpass vorhanden",
                 "ekzemfrei"
             ],
             "education": [
-                "Freizeit",
-                "Working Equitation"
+                "Dressur",
+                "Barock"
             ],
-            "price": 6000,
-            "age": 2,
+            "price": 10000,
+            "age": 9,
             "location": "Spanien, 46666, Rafelguaraf",
             "x_ray": "Nein",
             "full_papers": "Nein"

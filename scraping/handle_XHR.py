@@ -18,7 +18,7 @@ for offset in range(0, 9*7, 9):
     "dataCollectionId": "Verkaufspferde",
     "query": {
         "paging": {
-        "offset": 0,
+        "offset": offset,
         "limit": 9
         }
     }
