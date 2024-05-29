@@ -24,10 +24,7 @@ for offset in range(0, 9*7, 9):
     }
     })
     try:
-        r = requests.request("POST", url, headers=headers, data=payload)
-        print(r.status_code)
-        r = r.json()
-        print(len(r["dataItems"]))
+        r = requests.request("POST", url, headers=headers, data=payload).json()
         for i in range(len(r["dataItems"])):
             vals = []
             data = r["dataItems"][i]["data"]
@@ -42,8 +39,9 @@ for offset in range(0, 9*7, 9):
             vals.append(int(re.search(r"\d+", data["stockmass"]).group())) #height
             vals.append(data["eignung"]) #suitability
             vals.append(data["ausbildung"]) #education
-            price = data["preis"].replace(".", "")
-            vals.append(int(re.search(r"\d+", price).group())) #price
+            vals.append(data["preis"]) #price
+            # price = data["preis"].replace(".", "")
+            # vals.append(int(re.search(r"\d+", price).group())) #price
             vals.append(int(re.search(r"\d+", data["alter"]).group())) #age
             vals.append(data["standort"]) #location
             vals.append(data["Verkaufspferde"]) #x_ray
@@ -52,5 +50,5 @@ for offset in range(0, 9*7, 9):
     except:
         pass
 
-with open("horse_details.json", "w") as f:
-    json.dump({"horse": main_list}, f, indent=4)
+with open("horse_details.json", "w", encoding="utf-8") as f:
+    json.dump({"horse": main_list}, f, ensure_ascii=False, indent=4)
