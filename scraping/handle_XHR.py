@@ -24,8 +24,11 @@ for offset in range(0, 9*7, 9):
     }
     })
     try:
-        r = requests.request("POST", url, headers=headers, data=payload).json()
-        for i in range(0, 9):
+        r = requests.request("POST", url, headers=headers, data=payload)
+        print(r.status_code)
+        r = r.json()
+        print(len(r["dataItems"]))
+        for i in range(len(r["dataItems"])):
             vals = []
             data = r["dataItems"][i]["data"]
             vals.append(data["title"]) #title
