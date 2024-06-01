@@ -10,7 +10,7 @@ url = "https://www.point2homes.com/MX/Real-Estate-Listings/Quintana-Roo.html"
 r = requests.get(
     url='https://proxy.scrapeops.io/v1/',
     params={
-        'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
+        'api_key': 'YOUR-API-KEY',
         'url': url+f"?page={1}",
         'bypass': 'cloudflare_level_1',
     },
