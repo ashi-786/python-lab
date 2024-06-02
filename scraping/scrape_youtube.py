@@ -11,6 +11,7 @@ import googleapiclient.discovery
 import googleapiclient.errors
 import json
 
+# Free YouTube Data API having limited Quota, can be created using Google Developer Console
 Api = "AIzaSyBGkdaq9rmb3Cw1EhqxveZKPWjVGTofeRk"
 youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=Api)
 video_id = "FbtCl9jJyyc"
