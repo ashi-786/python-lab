@@ -14,23 +14,23 @@ url = "https://www.point2homes.com/MX/Real-Estate-Listings.html"
 # proxy = f'http://{proxy_login}:{proxy_password}@{proxy_host}:{proxy_port}'
 # r = requests.get(url, proxies={'http': proxy, 'https': proxy})
 
-# r = requests.get(
-#     url='https://proxy.scrapeops.io/v1/',
-#     params={
-#         'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
-#         'url': url,
-#         'bypass': 'cloudflare_level_1',
-#     },
-# )
-# # print(r.status_code)
-# soup = bs(r.content, "html.parser")
-# lis = soup.find_all("ul", {'class': 'list-region'})[1].find_all("li")
-# cities_name = [li.find("a").text.strip() for li in lis] # 33 cities
-# cities_link = [base_url+li.find("a").get('href') for li in lis]
-# with open("Cities-in-Mexico.json", "w", encoding="utf-8") as f:
-#     json.dump({cities_name[i]:cities_link[i] for i in range(len(cities_name))}, f, ensure_ascii=False, indent=4)
+r = requests.get(
+    url='https://proxy.scrapeops.io/v1/',
+    params={
+        'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
+        'url': url,
+        'bypass': 'cloudflare_level_1',
+    },
+)
+# print(r.status_code)
+soup = bs(r.content, "html.parser")
+lis = soup.find_all("ul", {'class': 'list-region'})[1].find_all("li")
+cities_name = [li.find("a").text.strip() for li in lis] # 33 cities
+cities_link = [base_url+li.find("a").get('href') for li in lis]
+with open("Cities-in-Mexico.json", "w", encoding="utf-8") as f:
+    json.dump({cities_name[i]:cities_link[i] for i in range(len(cities_name))}, f, ensure_ascii=False, indent=4)
 
-keys = ['title', 'price', 'price-drop', 'Latitude', 'Longitude', 'image-list', 'open-house-label', 'original-listing', 'Beds', 'Baths', 'Area', 'Lot-size ', 'Property-Type', 'Property-Details', 'Description', 'Features', 'Price-History', 'Agent-Name']
+keys = ['title', 'price', 'price-drop', 'Latitude', 'Longitude', 'image-list', 'open-house-label', 'original-listing', 'Beds', 'Baths', 'Area', 'Lot-size ', 'Property-Type', 'Property-Details', 'Description', 'Features', 'Price-History', 'Agent-Details']
 
 def get_links(city, page):
     # print(f"{city}: {page}")
@@ -109,7 +109,7 @@ def get_data(link):
                 chr_dict.update({dl.dt.text.strip() : dl.dd.text.strip()})
             except: pass
         vals.append(chr_dict)
-    except: vals.append("")
+    except: vals.append({})
     try:
         description = main_content.find("div", class_="description-full-cnt").find("div", class_="description-text").text.strip()
     except: description = ""
@@ -123,7 +123,7 @@ def get_data(link):
             vals2 = [f.text.strip() for f in ftr.find_all("li")]
             chr_dict.update({key : list(vals2)})
         vals.append(chr_dict)
-    except: vals.append("")
+    except: vals.append({})
     # price-history
     try:
         hist_table = main_content.find("table", class_="price-history-tbl")
@@ -133,27 +133,15 @@ def get_data(link):
             tdList = [td.text.strip() for td in tr.find_all("td")]
             history.append({thList[i]:tdList[i] for i in range(len(thList))})
         vals.append(history)
-    except: vals.append("")# no history
-    # print(vals)
+    except: vals.append([])# no history
     contacts_agents = soup2.find("aside", class_="content-side").find("div", class_="contacts_agents")
-    agent_name = contacts_agents.find("div", class_="agent-name").text.strip()
-    vals.append(agent_name)
-    print(vals)
-    data_list.append({keys[i]:vals[i] for i in range(len(keys))})
-    print(data_list)
-    # Agent-Links
-    for agent in check_agents:
-        if agent == agent_name:
-            print("returned")
-            return
-    check_agents.append(agent_name)
-    print("Agent adding: ", agent_name)
+    # Agent-Details
     chr_dict = {}
     try: # agent-photo
         chr_dict.update({'agent-photo': contacts_agents.find("img", class_="profile").get('src')})
     except: pass
     try: #agent-name
-        chr_dict.update({'agent-name': agent_name})
+        chr_dict.update({'agent-name': contacts_agents.find("div", class_="agent-name").text.strip()})
     except: pass
     try: #detail
         chr_dict.update({'agent-detail': contacts_agents.find("div", class_="agent-name").find_next("p").text.strip()})
@@ -175,15 +163,15 @@ def get_data(link):
     try:
         chr_dict.update({'profile-link': base_url+contacts.find("a", class_="ic-profile").get('href')})
     except: pass
-    agents.append(chr_dict)
-    print(agents)
+    vals.append(chr_dict)
+    # print(vals)
+    data_list.append({keys[i]:vals[i] for i in range(len(keys))})
+    # print(data_list)
     # except:
     #     data_list.append({"Error in": link})
 
-# for city in range(0, 1):
+# for city in range(0, 2):
 estate_links = []
-check_agents = []
-agents = []
 data_list = []
 # try:
 with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -192,9 +180,8 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
 # except: pass
 print(len(estate_links))
 with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(get_data, estate_links[:3])
+    executor.map(get_data, estate_links[:10])
     # Iterate through all Property Listings in a city
-print(len(agents))
 print(len(data_list))
 with open(f"{'Aguascalientes'}.json", "w", encoding="utf-8") as f:
-    json.dump({'Agents': agents, 'Properties': data_list}, f, ensure_ascii=False, indent=4)
+    json.dump(data_list, f, ensure_ascii=False, indent=4)
