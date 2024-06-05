@@ -152,7 +152,7 @@ def get_data(link):
 # Change the loop range as per the number of pages
 try:
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        executor.map(get_links, [i for i in range(1, 3)])
+        executor.map(get_links, [i for i in range(1, 31)])
 except: pass
 # print(len(links))
 
