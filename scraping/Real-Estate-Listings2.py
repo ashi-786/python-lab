@@ -68,7 +68,7 @@ def get_data(link):
     title = main_content.find("div", class_="property-address").h1.text.strip()
     vals.append(title)
     try:
-        price_str = main_content.find("div", class_="price").text.split("USD")[0].replace(",", "")
+        price_str = main_content.find("div", class_="price").text.split(" ")[0].replace(",", "")
         price = int(re.sub(r"[^\d]", "", price_str))
     except: price = ""
     vals.append(price)
