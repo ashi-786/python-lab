@@ -1,6 +1,157 @@
-{
-    "Agents": [
-        {
+[
+    {
+        "title": "conocido sn, El Milagro, Rincon De Romos, Aguascalientes",
+        "price": 8900000,
+        "price-drop": "",
+        "Latitude": 22.335814,
+        "Longitude": -102.474496,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/8d9c/5e6f/ca0a/fb13d0e4951cd0b142f9/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/6f80/5db0/459f/25cff2397284910e405e/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/de5d/83ac/b665/2f697149c86ab0800e2a/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/2b5f/6452/357f/5ddf251afd0fff3fb2d5/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/f79b/99ee/cdd1/f4e94d76b2c23d6f7591/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/43be/56a4/acee/a33a085cdb74c3b17773/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/dcf6/9e63/a86f/7ea3c0760a763435da77/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/c102/c131/4a33/ba23f08868e93cbfcd2b/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/9be2/ae1c/7230/87ae2916bbf4c5744bd4/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/cc6c/5385/2991/c6574546b469e182c0ff/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/e897/f260/feec/e7d8c1f340038956853c/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/454a/ef33/7ec6/16f3f0d8552496b7db1f/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/7bc6/b5f6/1937/fec226b884a23357014e/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/6194/e33a/67ff/c0817d6822285bcb5f25/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "No open houses are scheduled at this time.",
+        "original-listing": "",
+        "Beds": "",
+        "Baths": "",
+        "Area": "",
+        "Lot-size ": "73.143 ac Lot Size",
+        "Property-Type": "Commercial",
+        "Property-Details": {
+            "Type": "Commercial",
+            "Style": "Land",
+            "Lot Size": "73.143 Ac",
+            "MLS Number": "MX24629622",
+            "Postal Code": "20420"
+        },
+        "Description": "Rancho de agostadero en venta ubicado en Rincón de Romos Son 296 hectáreas propicias para uso de agostadero cuenta con 2 bordos\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {
+            "Lot Features": [
+                "Lot Features: IrregularLot"
+            ]
+        },
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "Alex De la Rosa Leal",
+            "agent-detail": "Remax Unión",
+            "phone-list": [
+                "+52 (449) 437-9129",
+                "+52 (449) 437-9129"
+            ],
+            "address": "Aguascalientes, Aguascalientes, DF 20001"
+        }
+    },
+    {
+        "title": "Modelo SYMPHONY - Avenida Paseo San Telmo 310, San Telmo, Aguascalientes, Aguascalientes",
+        "price": 4621605,
+        "price-drop": "",
+        "Latitude": 21.93368,
+        "Longitude": -102.303492,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/a902/b610/ac4f/701986b6f11a3ff6ef67/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/fcad/02c7/0905/518c170dc8891b72da17/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/3017/6760/4fcc/a82e556ec6d6f1671bfa/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/9955/9253/e112/9a8d161725ceb5f898df/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/d639/5de5/e444/12c69ae922bd2d145e02/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/835a/e16b/ba33/cc347b0ae04492d575b4/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/dc8c/3f34/987e/43ad72fd46a18ce9cc62/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/c82a/2873/4427/ae2e44be100e76c5cd4a/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/95c6/4e23/6989/ef1ae3fd71c72667c313/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/c111/e610/17a2/3e3de12273c8cfd0d5a5/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/f186/656b/a397/323cfe8828ed1a25e9dd/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/8ecf/0216/8068/79c23cecb21330f65d51/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "No open houses are scheduled at this time.",
+        "original-listing": "",
+        "Beds": "2 Beds",
+        "Baths": "2 Baths",
+        "Area": "",
+        "Lot-size ": "0.028 ac Lot Size",
+        "Property-Type": "Residential",
+        "Property-Details": {
+            "Type": "Residential",
+            "Style": "Condominium",
+            "Lot Size": "0.028 Ac",
+            "MLS Number": "MX2132036",
+            "Year Built": "2023",
+            "Stories": "7",
+            "Parking info": "2",
+            "Postal Code": "20115"
+        },
+        "Description": "Luxury apartments in the new Vento apartment tower.\nThe Symphony model has two spacious bedrooms, designed for young and adult couples, with the ability to have a room for children and guests who will enjoy a feeling of comfort with incomparable lighting that generates a pleasure to enjoy every moment.\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {
+            "Extra Features": [
+                "Community Features: Elevator"
+            ],
+            "Lot Features": [
+                "Lot Features: Rectangular"
+            ]
+        },
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "Daniel Pineda Sainz",
+            "agent-detail": "CENTURY 21 Luxury Services",
+            "phone-list": [
+                "+52 (449) 386-6135",
+                "+52 (449) 386-6135"
+            ],
+            "address": "Blvd. Luis Donaldo Colosio Murrieta 400 Interior 2, Aguascalientes, DF 20110"
+        }
+    },
+    {
+        "title": "SAN GERARDO RESIDENCIAL Aguascalientes, Ags  20342 , Aguascalientes City, Aguascalientes",
+        "price": 2150000,
+        "price-drop": "",
+        "Latitude": 21.806344,
+        "Longitude": -102.292435,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/fd50/2731/b4de/bcf6a8a99c0aa040f55c/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/a7c4/807f/6aca/232b1452a69a570edb94/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/9201/538f/5cab/fb46f91dcfb800836e09/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/9ed5/6aab/3918/f9003870b0986a296f0c/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/752d/b7bc/35d1/813b99b85491d2f06b86/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/f80f/287d/1fc2/85e4203a80785d9b3642/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/2569/8f26/d30b/fde79399b5555a887b06/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/ae54/6d9d/fada/e98e3746323a47f50be2/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/1d72/1bef/f76a/ec1f33efe251ca139398/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/2ea9/0fce/40f5/44d9c8f54b2c278d9302/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/3954/a769/bc26/0cfda618e4eea5593194/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/e80f/bdcd/5fef/4a2fb16dfdf59b277d62/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/8bec/3176/5ef5/85854af92f84262f8830/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/e64a/4d59/e7c9/949bc0d4355d12fac999/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/2f95/82ac/fd99/c4d21402c50ba39e2386/wm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/a75c/03ba/c778/65edd81a21fa77c8136c/wm_w640h425.jpg"
+        ],
+        "open-house-label": "No open houses are scheduled at this time.",
+        "original-listing": "http://platform.point2.com/Report/lct.ashx?lid=480392825&aid=MK&url=http%3A%2F%2Fedithshepard.point2agent.com%2FListing%2FViewListingDetails.aspx%3FListingID%3D480392825%26Bb%3DMK%26Cc%3D480392825",
+        "Beds": "3 Beds",
+        "Baths": "2 Baths",
+        "Area": "",
+        "Lot-size ": "",
+        "Property-Type": "Residential",
+        "Property-Details": {
+            "Type": "Residential",
+            "Style": "Single Story",
+            "Year Built": "2010",
+            "Postal Code": "20342"
+        },
+        "Description": "PRECIO EN PESOS MEXICANOS\n\nEN VENTA HERMOSA CASA EN SAN GERARDO  RESIDENCIAL AGUASCALIENTES\n\nSan Gerardo Residencial Aguascalientes, Ags 20342 \n\nCerca de universidad y comercios\n\nCaracterísticas: \n•\t3 recamaras\n•\t2 baños completos y un medio baño.\n•\tSala en primer piso\n•\tComedor\n•\tCocina con isla desayunador y cocina integral \n•\tPatio trasero de servicio y cochera para dos vehículos\n•\tSala en el segundo piso.\n\nAmenidades:\n•\tAire acondicionado en habitación principal y en la sala de primer piso.\n•\tAlberca dentro de residencial.\n\nIMPORTANTE\nLas imágenes mostradas pueden variar a las del producto original. Los precios publicados están sujetos a cambio sin previo aviso.\n\nLa forma de pago puede ser por medio de crédito (bancario/Infonavit) o recurso propio \n\nLa propiedad se encuentra con documentación en regla \n\nPrecio publicado no incluye gastos de escrituración\n\nContrato de Adhesión de Intermediación para la compraventa de inmuebles, registrado en la PROFECO, Número 4149-2022 con fecha el 30 de agosto de 2022.\n\nLe invitamos a ver nuestro aviso de privacidad ubicado en nuestra página.\n\n¡Te llevo a conocerla, espero tu llamada!\n\n\nFind out more about this property.\nRequest details here",
+        "Features": {},
+        "Price-History": [],
+        "Agent-Details": {
             "agent-photo": "https://mediavault.point2.com/p2a/user/33e9/666d/fe89/72b0726712784508cc25/w160h120.jpg",
             "agent-name": "EDITH SHEPERD",
             "agent-detail": "SAMEC GRUPO INMOBILIARIO",
@@ -10,169 +161,244 @@
             ],
             "website": "https://www.samecinmobiliaria.com/",
             "profile-link": "https://www.point2homes.com/US/Real-Estate-Agents/EDITH-SHEPERD/4385889.html"
+        }
+    },
+    {
+        "title": "Av de las Misiones 208 Interior 305, Misión del Campanario, Aguascalientes, Aguascalientes",
+        "price": 3083744,
+        "price-drop": "",
+        "Latitude": 21.930383,
+        "Longitude": -102.314737,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/2e4f/69cc/fa7d/7c258d2b04f28bdad6c7/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/15cf/16e1/826e/16ee36721485cdb01d88/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/815f/eb9d/5be3/259b63d31c1e60d42795/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/1060/7c52/a54f/275efe423ff74fd2508d/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/1c71/631b/75ca/22109e26f4b3e4da5346/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/c5b9/dbb8/ac27/fedca554cf29c8cfbe13/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/8fc3/cd31/7392/aa5ab22c4fbfe29f0bc0/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/d93a/c85f/8cf3/b7fc2b12534d56e214ac/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/8c3e/4e13/1df5/801aedd3c24593d59ae2/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/378c/c6d3/f9ad/27ddea00516b882a7cad/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "No open houses are scheduled at this time.",
+        "original-listing": "",
+        "Beds": "3 Beds",
+        "Baths": "2 Baths",
+        "Area": "",
+        "Lot-size ": "0.023 ac Lot Size",
+        "Property-Type": "Residential",
+        "Property-Details": {
+            "Type": "Residential",
+            "Style": "Condominium",
+            "Lot Size": "0.023 Ac",
+            "MLS Number": "MX23406515",
+            "Year Built": "2023",
+            "Stories": "3",
+            "Parking info": "2",
+            "Postal Code": "20118"
         },
-        {
+        "Description": "Distribution:\n• Master bedroom with walk-in closet and full bathroom\n• Two bedrooms with closet\n• 1 full bathroom\n• Equipped kitchen\n• Hall\n• Dining room\n• Laundry room\n• TV room\n• 2 parking spaces\nCharacteristics:\n• Plot: 92 m²\n• Construction: 92 m²\n• Terrain type: regular\n• Ed. Conservation: New\n• Floor you are on: 3\n• Land use: Residential\nDepartment equipment:\n• Closets\n• Washing area\n• Store\n• Stationary gas\nCondominium equipment:\n• Electric door\n• Elevator\n• Swimming pool\n• Garden\n• Palapa\n• Cistern\n• Underground parking\nWay to pay:\n• Own resources and mortgage loans from banks and public or private institutions are accepted (credit approval is subject to the policies of each institution).\nServices in the area:\n• Water\n• Light\n• Sewer system\n• Public transport\n• Optical fiber\n• Lighting\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {
+            "Lot Features": [
+                "Lot Features: Rectangular"
+            ],
+            "Extra Features": [
+                "Community Features: Elevator"
+            ]
+        },
+        "Price-History": [],
+        "Agent-Details": {
             "agent-photo": "/includes/img/no_agent_photo_sm.png",
-            "agent-name": "JOSE MANUEL DE LOERA RIZO",
+            "agent-name": "Karina Oliva Delgado",
             "agent-detail": "CENTURY 21 Altius",
             "phone-list": [
-                "+52 (449) 555-0555",
-                "+52 (449) 555-0555"
+                "+52 (449) 155-4599",
+                "+52 (449) 155-4599"
             ],
             "address": "Av. Aguascalientes Pte. 118 int. B4, DF 20130"
         }
-    ],
-    "Properties": [
-        {
-            "title": "SAN GERARDO RESIDENCIAL Aguascalientes, Ags  20342 , Aguascalientes City, Aguascalientes",
-            "price": 2150000,
-            "price-drop": "",
-            "Latitude": 21.806344,
-            "Longitude": -102.292435,
-            "image-list": [
-                "https://mediavault.point2.com/p2h/listing/fd50/2731/b4de/bcf6a8a99c0aa040f55c/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a7c4/807f/6aca/232b1452a69a570edb94/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/9201/538f/5cab/fb46f91dcfb800836e09/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/9ed5/6aab/3918/f9003870b0986a296f0c/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/752d/b7bc/35d1/813b99b85491d2f06b86/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/f80f/287d/1fc2/85e4203a80785d9b3642/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/2569/8f26/d30b/fde79399b5555a887b06/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/ae54/6d9d/fada/e98e3746323a47f50be2/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/1d72/1bef/f76a/ec1f33efe251ca139398/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/2ea9/0fce/40f5/44d9c8f54b2c278d9302/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/3954/a769/bc26/0cfda618e4eea5593194/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/e80f/bdcd/5fef/4a2fb16dfdf59b277d62/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/8bec/3176/5ef5/85854af92f84262f8830/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/e64a/4d59/e7c9/949bc0d4355d12fac999/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/2f95/82ac/fd99/c4d21402c50ba39e2386/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a75c/03ba/c778/65edd81a21fa77c8136c/wm_w640h425.jpg"
-            ],
-            "open-house-label": "No open houses are scheduled at this time.",
-            "original-listing": "http://platform.point2.com/Report/lct.ashx?lid=480392825&aid=MK&url=http%3A%2F%2Fedithshepard.point2agent.com%2FListing%2FViewListingDetails.aspx%3FListingID%3D480392825%26Bb%3DMK%26Cc%3D480392825",
-            "Beds": "3 Beds",
-            "Baths": "2 Baths",
-            "Area": "",
-            "Lot-size ": "",
-            "Property-Type": "Residential",
-            "Property-Details": {
-                "Type": "Residential",
-                "Style": "Single Story",
-                "Year Built": "2010",
-                "Postal Code": "20342"
-            },
-            "Description": "PRECIO EN PESOS MEXICANOS\n\nEN VENTA HERMOSA CASA EN SAN GERARDO  RESIDENCIAL AGUASCALIENTES\n\nSan Gerardo Residencial Aguascalientes, Ags 20342 \n\nCerca de universidad y comercios\n\nCaracterísticas: \n•\t3 recamaras\n•\t2 baños completos y un medio baño.\n•\tSala en primer piso\n•\tComedor\n•\tCocina con isla desayunador y cocina integral \n•\tPatio trasero de servicio y cochera para dos vehículos\n•\tSala en el segundo piso.\n\nAmenidades:\n•\tAire acondicionado en habitación principal y en la sala de primer piso.\n•\tAlberca dentro de residencial.\n\nIMPORTANTE\nLas imágenes mostradas pueden variar a las del producto original. Los precios publicados están sujetos a cambio sin previo aviso.\n\nLa forma de pago puede ser por medio de crédito (bancario/Infonavit) o recurso propio \n\nLa propiedad se encuentra con documentación en regla \n\nPrecio publicado no incluye gastos de escrituración\n\nContrato de Adhesión de Intermediación para la compraventa de inmuebles, registrado en la PROFECO, Número 4149-2022 con fecha el 30 de agosto de 2022.\n\nLe invitamos a ver nuestro aviso de privacidad ubicado en nuestra página.\n\n¡Te llevo a conocerla, espero tu llamada!\n\n\nFind out more about this property.\nRequest details here",
-            "Features": "",
-            "Price-History": "",
-            "Agent-Name": "EDITH SHEPERD"
+    },
+    {
+        "title": "CERRADA DE LAS CASUARINAS 110, El Salto de los Salado, Aguascalientes, Aguascalientes",
+        "price": 10500000,
+        "price-drop": "",
+        "Latitude": 21.728824,
+        "Longitude": -102.365332,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/08ae/2c51/72f7/25bd3f1c6ac2498d6a56/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/0d19/f360/65c7/d926d29a66d3a7645f47/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/bc57/b2b8/500d/a299969da529d32d087b/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/dd6c/9043/2fbe/2dd3f42648cfb14afd82/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "No open houses are scheduled at this time.",
+        "original-listing": "",
+        "Beds": "2 Beds",
+        "Baths": "3 Baths",
+        "Area": "",
+        "Lot-size ": "0.298 ac Lot Size",
+        "Property-Type": "Residential",
+        "Property-Details": {
+            "Type": "Residential",
+            "Style": "Condominium",
+            "Lot Size": "0.298 Ac",
+            "MLS Number": "MX22164653",
+            "Year Built": "2022",
+            "Stories": "2",
+            "Parking info": "3",
+            "Association Fee": "$1,206 MXN",
+            "Postal Code": "20341"
         },
-        {
-            "title": "Artículo 1, Desarrollo Especial Bulevar a Zacatecas, 20126 Aguascalientes, Ags., Aguascalientes City, Aguascalientes",
-            "price": 16800000,
-            "price-drop": "",
-            "Latitude": 21.925768,
-            "Longitude": -102.287607,
-            "image-list": [
-                "https://mediavault.point2.com/p2h/listing/d9be/ab78/716d/7c215fb81936c1b1a37c/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/7d3d/9dfe/6d49/fe38b0f563b0cb8cded6/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/aecd/27fb/c4aa/0fe1ed223aa15efa9e2a/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/14e5/af0a/7df8/5b8509e17ba6b6ac6e10/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/3cfd/094b/5199/424f2556578a4d5f9525/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a6c1/aa7c/0f0b/01ed21ad009b67830251/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/429a/68d8/3931/e5238ad3a9b32fbe701c/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/0cdd/3fda/202f/30088b8e95068365a4d9/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/168e/0e44/33d9/db2f3df5807f84b9d25c/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/bdee/7df8/0bfd/ad4397b67fa47779d115/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a3c3/013d/73f7/bcc88b916ad0920b0d37/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/c3ea/2dc5/40d1/2e0a630f3b64b2871176/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/3aa7/1d52/f756/03e4794cdcf17bd9c007/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/029e/a75f/835c/4c5e179c15d29b42610b/wm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a75c/03ba/c778/65edd81a21fa77c8136c/wm_w640h425.jpg"
-            ],
-            "open-house-label": "No open houses are scheduled at this time.",
-            "original-listing": "http://platform.point2.com/Report/lct.ashx?lid=516482549&aid=MK&url=https%3A%2F%2Fwww.point2homes.com%2FListingDetails%2F122042736",
-            "Beds": "4 Beds",
-            "Baths": "2 Baths",
-            "Area": "",
-            "Lot-size ": "0.111 ac Lot Size",
-            "Property-Type": "Residential",
-            "Property-Details": {
-                "Type": "Residential",
-                "Style": "Single Story",
-                "Lot Size": "0.111 Ac",
-                "Year Built": "2010",
-                "Lot info": "14.00m x 32.10m",
-                "Postal Code": "20126"
-            },
-            "Description": "PRECIO EN PESOS MEXICANOS\n\nCASA AL NORTE DE LA CIUDAD DE AGUASCALIENTES EN \"RESIDENCIAL ALTARIA\"\n\nArtículo 1, Desarrollo Especial Bulevar a Zacatecas, 20126 Aguascalientes, Ags.\n\nMedidas: \n•\t14 metros de frente por 32.10 metros de fondo\n•\tDando un total de superficie de 449.40 mt2\n\nPlanta baja:\n•\t1 medio baño\n•\t1 habitación adaptada a oficina despacho,\n•\tCuarto de servicio localizado abajo de las escaleras\n•\tSala a doble altura\n•\tComedor amplio\n•\tRecibidor con fuente de finos acabados\n•\tCocina integral toda equipada con isla desayunador\n•\tPatio con jardín en la parte frontal y trasera equipado con pasto sintético.\n•\tÁrea para asador y ahí desarrolles una gran convivencia familiar y con tus amistades.\n•\t1 medio baño,\n•\tPasillo que comunica parte de atrás con parte del frente.\n•\tCochera techada para dos o tres vehículos\n•\tCochera frontal para otras dos unidades sin techo.\n\nPlanta alta:\n•\tSala doble altura\n•\tCuatro recamaras con baño completo\n•\tCloset\n•\tCuarto de servicio y acceso a la azotea\n•\tCuarto principal tiene vestidor con Isla.\n•\tNota adicional está Recién impermeabilizada.\n•\tMuy cuidada ya que se le da su mantenimiento.\n\nIMPORTANTE\nLas imágenes mostradas pueden variar a las del producto original. Los precios publicados están sujetos a cambio sin previo aviso.\n\nLa forma de pago puede ser por medio de crédito (bancario/Infonavit) o recurso propio\n\nLa propiedad se encuentra con documentación en regla\n\nPrecio publicado no incluye gastos de escrituración\n\nContrato de Adhesión de Intermediación para la compraventa de inmuebles, registrado en la PROFECO, Número 4149-2022 con fecha el 30 de agosto de 2022.\n\nLe invitamos a ver nuestro aviso de privacidad ubicado en nuestra página.\n\n¡Te llevo a conocerla, espero tu llamada!\n\n\n\nFind out more about this property.\nRequest details here",
-            "Features": "",
-            "Price-History": "",
-            "Agent-Name": "EDITH SHEPERD"
+        "Description": "House for sale in Eden los Sabinos, Aguascalientes\nDistribution\nP.B\n-Living room\n-Dinning room\n-Kitchen\n-Study\n-Washing area\n-Covered parking for 3 cars\n-2 rooms\n-2 full bathrooms\n-TV room. wide\n-Half bath\nPA\n-Terrace\n-Roof Garden\nfeatures:\n- construction: 280 m2\n- land: 1206 m2\n- depth measure: 42 m\n- front measurement: 57 m\n- 3 parking spaces\n- Common areas:\n- Childish games\n- Park - garden\n- Golf course\n- Zoo\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {
+            "Lot Features": [
+                "Lot Features: Rectangular"
+            ]
         },
-        {
-            "title": "SIERRA DE LOS PICACHOS 227 DEPARTAMENTO 5, Bosques del Prado Sur, Aguascalientes, Aguascalientes",
-            "price": 3150000,
-            "price-drop": "",
-            "Latitude": 21.915192,
-            "Longitude": -102.30819,
-            "image-list": [
-                "https://mediavault.point2.com/p2h/listing/b449/e6d9/885a/49cb5ff32e143d7541bd/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/ed48/22db/098b/e5dc9f2a2df3f68ae3f5/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/f9f8/91a2/c3b8/e6a19079e87a97a0ce97/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/fce5/ece0/887f/08b7a1a6ee0940a07aa3/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/404b/492a/03d5/cef34e23c06568417956/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/1d13/b5ef/39e0/03fe345919fe2cb38fbc/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/89fe/58b1/e44d/f0c85ffa32f1b7566252/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/359d/b311/8b2b/be01266f496e2cc776c0/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/6e73/9da8/8da8/a884294423745c325ffa/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/1690/1711/dec7/704ee23db923973d24aa/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/86d3/c7c7/e763/21b69265e2c52b665bcd/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/fd90/d6b7/e85f/ac222dc520186ddbd313/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/1f0d/22cd/499b/1532f4ce8ddc6b6d67e8/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/e945/7658/a627/9fa7bd3159fba294ab74/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/20fb/9359/f5b6/dbdf1a0e12f9e6c72d7a/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/692b/4380/c0d6/e02ff91437bb85465afc/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/07d3/94d5/107d/8c721c95f1f52b0f6804/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/4f04/3252/dc89/005f56f0af99eb58b0e0/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/c425/3f1e/41d2/7d9ad3ad7cb986aa0d8b/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/a513/fc86/43d2/18e89238e13a3345d4a9/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/6475/5afc/b157/e97eab0a52c1447767a9/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/74c8/87c0/0063/8e7c122d22a23c50aec0/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/4f70/af12/3f2b/4caffcfc4fd3cba307e5/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/0dda/549b/8769/c428d2182c863e9b954e/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/cb14/983f/7101/a929ba5465864e7cde00/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/4acc/8714/8f6a/dc35f0bab9f69b89076e/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/ae42/dd82/1642/976109c856a04693520f/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/6192/23c6/b392/cfddb8a0dbfc9056cfe6/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/bd1b/c315/1367/e669fee2094cc0a9d122/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/c54c/1653/e7ee/e4629f13391ffdba1e47/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/544a/a6d2/9a39/0bb4e9737a95603f0ded/nwm_w640h425.jpg",
-                "https://mediavault.point2.com/p2h/listing/dc84/7c20/6f6e/4d16877060b360da5c95/nwm_w640h425.jpg"
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "Manuel Naguib Jureidini Briones",
+            "agent-detail": "CENTURY 21 Luxury Services",
+            "phone-list": [
+                "+52 (449) 522-7001",
+                "+52 (449) 522-7001"
             ],
-            "open-house-label": "No open houses are scheduled at this time.",
-            "original-listing": "",
-            "Beds": "2 Beds",
-            "Baths": "2 Baths",
-            "Area": "",
-            "Lot-size ": "0.026 ac Lot Size",
-            "Property-Type": "Residential",
-            "Property-Details": {
-                "Type": "Residential",
-                "Style": "Condominium",
-                "Lot Size": "0.026 Ac",
-                "MLS Number": "MX23240284",
-                "Year Built": "2023",
-                "Stories": "5",
-                "Parking info": "1",
-                "Postal Code": "20130"
-            },
-            "Description": "Distribution\nTwo rooms\nTwo bathrooms\nIntegral kitchen\nOne parking space\nbuilding equipment\ntwo terraces\nPlayroom\nAn event room on the top floor, with top quality finishes.\nVideo surveillance with doorman\nA parking place with technology preparation for two cars.\nBasics:\nLand: 105.0 m²\nConstruction: 105.0 m²\nFloor in which it is located: 3\nLevels built: 5\nTerrain type: regular\nEdo. Conservation: New\nAccept Credits:\nYes and pay with own resources\nServices in the area:\nWater\nLight\nSewer system\nInternet\nPublic transport\nVery good location, close to the Autonomous University of​​‌​​​​‌​​‌‌​​​‌​‌​​​‌​​​​‌‌​‌‌​​‌​​​‌​‌ Aguascalientes\r\n        \nFind out more about this property.\nRequest details here",
-            "Features": {
-                "Lot Features": [
-                    "Lot Features: Rectangular"
-                ]
-            },
-            "Price-History": "",
-            "Agent-Name": "JOSE MANUEL DE LOERA RIZO"
+            "address": "Blvd. Luis Donaldo Colosio Murrieta 400 Interior 2, Aguascalientes, DF 20110"
         }
-    ]
-}
+    },
+    {
+        "title": "1 DE DICIEMBRE 338  LOTE 74/ VISTA CASTE, Los Fresnos, Aguascalientes, Aguascalientes",
+        "price": 2024876,
+        "price-drop": "",
+        "Latitude": 21.911973,
+        "Longitude": -102.356683,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/bc7f/1a8b/b69d/bdc7a6b46469ff54b189/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "",
+        "original-listing": "",
+        "Beds": "",
+        "Baths": "",
+        "Area": "",
+        "Lot-size ": "0.051 ac Lot Size",
+        "Property-Type": "Lots And Land",
+        "Property-Details": {
+            "Type": "Lots And Land",
+            "Style": "Land",
+            "Lot Size": "0.051 Ac",
+            "MLS Number": "MX24627513",
+            "Postal Code": "20328"
+        },
+        "Description": "The information presented is strictly informative in nature and should not be considered a unilateral proposal enforceable by the developer.\nIf you are interested in receiving a formal proposal on the real estate development of your interest, please contact one of our authorized representatives.\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {},
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "GRUPO TERRANZA S.A. de C.V.",
+            "agent-detail": "GRUPO TERRANZA",
+            "phone-list": [
+                "+52 (449) 155-6223",
+                "+52 (449) 155-6223"
+            ],
+            "address": "Av Héroe de Nacozari 321 1001-Torre A, Aguascalientes, DF 20250"
+        }
+    },
+    {
+        "Error in": "https://www.point2homes.com/MX/Home-For-Sale/Aguascalientes/Aguascalientes-City/Artculo-1-Desarrollo-Especial-Bulevar-a-Zacatecas-20126-Aguascalientes-Ags/122042736.html"
+    },
+    {
+        "Error in": "https://www.point2homes.com/MX/Condo-For-Sale/Aguascalientes/SIERRA-DE-LOS-PICACHOS-227-DEPARTAMENTO-5-Bosques-del-Prado-Sur/157130891.html"
+    },
+    {
+        "title": "1 DE DICIEMBRE LOTE 63/ VISTA SAN ISIDRO, El Chacho, Jesus Maria, Aguascalientes",
+        "price": 2133479,
+        "price-drop": "",
+        "Latitude": 21.91198,
+        "Longitude": -102.355705,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/2e75/1919/80f3/0b5eedd51f645f4220a4/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "",
+        "original-listing": "",
+        "Beds": "",
+        "Baths": "",
+        "Area": "",
+        "Lot-size ": "0.053 ac Lot Size",
+        "Property-Type": "Lots And Land",
+        "Property-Details": {
+            "Type": "Lots And Land",
+            "Style": "Land",
+            "Lot Size": "0.053 Ac",
+            "MLS Number": "MX24629984",
+            "Postal Code": "20997"
+        },
+        "Description": "The information presented is strictly informative in nature and should not be considered a unilateral proposal enforceable by the developer.\nIf you are interested in receiving a formal proposal on the real estate development of your interest, please contact one of our authorized representatives.\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {},
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "GRUPO TERRANZA S.A. de C.V.",
+            "agent-detail": "GRUPO TERRANZA",
+            "phone-list": [
+                "+52 (449) 155-6223",
+                "+52 (449) 155-6223"
+            ],
+            "address": "Av Héroe de Nacozari 321 1001-Torre A, Aguascalientes, DF 20250"
+        }
+    },
+    {
+        "title": "av. eugenio garza sada 10, Ex-Hacienda de San Ignacio, Aguascalientes, Aguascalientes",
+        "price": 1770000,
+        "price-drop": "",
+        "Latitude": 21.90178,
+        "Longitude": -102.325675,
+        "image-list": [
+            "https://mediavault.point2.com/p2h/listing/88e3/6d21/8967/a55e4682521cc47ee757/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/30ed/5f6b/ea89/0756b0e367facb933a57/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/3d51/62da/8ac8/f7242db5011200bd2b42/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/caa3/9999/b3fe/6c28751333870f7d3e6b/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/321a/e3d3/b007/6ed4218bac174345ca33/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/6260/fd94/810a/9763a09f3879d03b52d3/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/60c8/6a32/9909/8c36f728d39c35a821ce/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/b9fd/3dd4/bf35/1420150b41d52362b8a0/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/28ca/1dee/faaf/3c93b2e1aed3065adffb/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/142c/ad05/cc4b/eb8a44361997631cd827/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/aa3f/6e3c/69c7/a541e7f705ba8c9e009c/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/073e/449c/6b9f/4f6b584e97f413fdbe8d/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/9385/b563/588b/c5a373b19c3285522498/nwm_w640h425.jpg",
+            "https://mediavault.point2.com/p2h/listing/654f/9728/d12d/6e6df82ee43b53937a53/nwm_w640h425.jpg"
+        ],
+        "open-house-label": "",
+        "original-listing": "",
+        "Beds": "",
+        "Baths": "",
+        "Area": "",
+        "Lot-size ": "0.046 ac Lot Size",
+        "Property-Type": "Lots And Land",
+        "Property-Details": {
+            "Type": "Lots And Land",
+            "Style": "Land",
+            "Lot Size": "0.046 Ac",
+            "MLS Number": "MX24605781",
+            "Postal Code": "20326"
+        },
+        "Description": "187 m2 land within a safe and quiet environment with 24-hour security, the residential has a clubhouse with pool, wading pool, meeting room, children's games, equipped gym, cement fields for multiple uses, grass soccer field synthetic, barbecue area and fire pit.\r\n        \nFind out more about this property.\nRequest details here",
+        "Features": {
+            "Extra Features": [
+                "Community Features: Barbecue"
+            ]
+        },
+        "Price-History": [],
+        "Agent-Details": {
+            "agent-photo": "/includes/img/no_agent_photo_sm.png",
+            "agent-name": "Ricardo Peimbert Culebro",
+            "agent-detail": "CENTURY 21 Bonaterra",
+            "phone-list": [
+                "+52 (449) 122-1522",
+                "+52 (449) 122-1522"
+            ],
+            "address": "Sierra del Laurel 206 int. 4, Aguascalientes, DF 20127"
+        }
+    }
+]
