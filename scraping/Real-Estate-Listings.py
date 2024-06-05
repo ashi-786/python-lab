@@ -6,18 +6,26 @@ import json
 
 base_url = "https://www.point2homes.com"
 url = "https://www.point2homes.com/MX/Real-Estate-Listings/Quintana-Roo.html"
+# Proxy configuration with login and password
+proxy_host = 'gw.dataimpulse.com'
+proxy_port = 823
+proxy_login = 'ad233771e91039eb4781'
+proxy_password = '42130fb979e942e3'
+proxy = f'http://{proxy_login}:{proxy_password}@{proxy_host}:{proxy_port}'
+
 links = []
 keys = ['title', 'price', 'price-drop', 'Latitude', 'Longitude', 'image-list', 'open-house-label', 'original-listing', 'Property-Summary', 'Property-Details', 'Description', 'Features', 'Price-History', 'Agent-Details']
 main_list = []
 def get_links(page):
-    r = requests.get(
-        url='https://proxy.scrapeops.io/v1/',
-        params={
-            'api_key': 'API-KEY',
-            'url': url+f"?page={page}",
-            'bypass': 'cloudflare_level_1',
-        },
-    )
+    # r = requests.get(
+    #     url='https://proxy.scrapeops.io/v1/',
+    #     params={
+    #         'api_key': 'API-KEY',
+    #         'url': url+f"?page={page}",
+    #         'bypass': 'cloudflare_level_1',
+    #     },
+    # )
+    r = requests.get(url+f"?page={page}", proxies={'http': proxy, 'https': proxy})
     # print(r.status_code)
     soup = bs(r.content, "html.parser")
     lis = soup.find("div", {'class': 'listings'}).find_all("div", {'class': 'item-cnt'})
@@ -29,14 +37,15 @@ def get_data(link):
     try:
         # print(f"\nScraping {link}\n")
         vals = []
-        res = requests.get(
-            url='https://proxy.scrapeops.io/v1/',
-            params={
-                'api_key': 'API-KEY',
-                'url': link,
-                'bypass': 'cloudflare_level_1',
-            },
-        )
+        # res = requests.get(
+        #     url='https://proxy.scrapeops.io/v1/',
+        #     params={
+        #         'api_key': 'API-KEY',
+        #         'url': link,
+        #         'bypass': 'cloudflare_level_1',
+        #     },
+        # )
+        res = requests.get(link, proxies={'http': proxy, 'https': proxy})
         # print(res.status_code)
         soup2 = bs(res.content, "html.parser")
         main_content = soup2.find("main")
