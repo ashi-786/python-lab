@@ -9,7 +9,7 @@ url = "https://www.point2homes.com/MX/Real-Estate-Listings.html"
 r = requests.get(
     url='https://proxy.scrapeops.io/v1/',
     params={
-        'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
+        'api_key': 'YOUR-API-KEY',
         'url': url,
         'bypass': 'cloudflare_level_1',
     },
@@ -29,7 +29,7 @@ def get_links(citypage):
     r = requests.get(
         url='https://proxy.scrapeops.io/v1/',
         params={
-            'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
+            'api_key': 'YOUR-API-KEY',
             'url': citypage,
             'bypass': 'cloudflare_level_1',
         },
@@ -50,7 +50,7 @@ def get_data(link):
         res = requests.get(
             url='https://proxy.scrapeops.io/v1/',
             params={
-                'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
+                'api_key': 'YOUR-API-KEY',
                 'url': link,
                 'bypass': 'cloudflare_level_1',
             },
