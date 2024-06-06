@@ -6,23 +6,15 @@ import json
 
 base_url = "https://www.point2homes.com"
 url = "https://www.point2homes.com/MX/Real-Estate-Listings.html"
-# Proxy configuration with login and password
-# proxy_host = 'gw.dataimpulse.com'
-# proxy_port = 823
-# proxy_login = 'ad233771e91039eb4781'
-# proxy_password = '42130fb979e942e3'
-# proxy = f'http://{proxy_login}:{proxy_password}@{proxy_host}:{proxy_port}'
-# r = requests.get(url, proxies={'http': proxy, 'https': proxy})
-
 r = requests.get(
     url='https://proxy.scrapeops.io/v1/',
     params={
-        'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
+        'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
         'url': url,
         'bypass': 'cloudflare_level_1',
     },
 )
-print(r.status_code)
+# print(r.status_code)
 soup = bs(r.content, "html.parser")
 lis = soup.find_all("ul", {'class': 'list-region'})[1].find_all("li")
 cities_name = [li.find("a").text.strip() for li in lis] # 33 cities
@@ -33,23 +25,22 @@ with open("Cities-in-Mexico.json", "w", encoding="utf-8") as f:
 keys = ['property-detail-link', 'title', 'price', 'price-drop', 'latitude', 'longitude', 'image-list', 'open-house-label', 'original-listing', 'Beds', 'Baths', 'Area', 'Lot-size ', 'Property-Details', 'Description', 'Features', 'Price-History', 'Agent-Details']
 
 def get_links(citypage):
-    print(citypage)
+    # print(citypage)
     r = requests.get(
         url='https://proxy.scrapeops.io/v1/',
         params={
-            'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
+            'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
             'url': citypage,
             'bypass': 'cloudflare_level_1',
         },
     )
-    print(r.status_code)
+    # print(r.status_code)
     soup = bs(r.content, "html.parser")
     lis = soup.find("div", class_='listings').find_all("div", {'class': 'item-cnt'})
     for li in lis:
         estate_links.append(base_url+li.find("a", string="View Details").get('href'))
-    if not soup.find("nav", {'aria-label': 'pagination'}).find("li", class_='next'):
-        return -1 #end
-    return
+    # if the pagination is less than 30
+    # if not soup.find("nav", {'aria-label': 'pagination'}).find("li", class_='next'):
         
 
 def get_data(link):
@@ -59,12 +50,12 @@ def get_data(link):
         res = requests.get(
             url='https://proxy.scrapeops.io/v1/',
             params={
-                'api_key': 'f1bd630d-7af0-4123-b4dd-6c8010bed171',
+                'api_key': 'da5dda51-9068-4e56-aa11-bc32fa3704c0',
                 'url': link,
                 'bypass': 'cloudflare_level_1',
             },
         )
-        print(res.status_code)
+        # print(res.status_code)
         soup2 = bs(res.content, "html.parser")
         main_content = soup2.find("main")
         # title
@@ -181,20 +172,17 @@ def get_data(link):
     except:
         data_list.append({"Error in": link})
 
-citites = ['https://www.point2homes.com/MX/Real-Estate-Listings/Aguascalientes.html'] # to test for 1 city
-for city in range(len(citites)):
+# citites = ['https://www.point2homes.com/MX/Real-Estate-Listings/Aguascalientes.html'] # to test for 1 city
+for city in range(len(cities_link)):
     estate_links = []
     data_list = []
-    # try:
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        executor.map(get_links, [citites[city]+f"?page={page}" for page in range(1, 31)])
-        # Each city can currently have a maximum of 30 listings pages and every page has 24 Properties
-    # except: pass
-    print(len(estate_links))
+        executor.map(get_links, [cities_link[city]+f"?page={page}" for page in range(1, 31)])
+        # Each city can have a maximum of 30 listings pages currently and every page has 24 Properties
+    # print(len(estate_links))
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        executor.map(get_data, estate_links[:10]) # check 10 links
-        # Iterate through all Property Listings in a city
-    print(len(data_list))
-    # with open(f"{'Aguascalientes'}.json", "w", encoding="utf-8") as f:
-    with open(f"{'Aguascalientes'}.json", "w", encoding="utf-8") as f:
+        executor.map(get_data, estate_links)
+    # print(len(data_list))
+    # with open(f"{'Aguascalientes'}.json", "w", encoding="utf-8") as f: # to test for 1 city
+    with open(f"{cities_name[city]}.json", "w", encoding="utf-8") as f:
         json.dump(data_list, f, ensure_ascii=False, indent=4)
