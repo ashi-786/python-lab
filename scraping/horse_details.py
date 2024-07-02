@@ -20,37 +20,43 @@ soup = BeautifulSoup(r.content, "html.parser")
 main_divs = soup.find_all("div", class_="ownHorses")
 main_links = [base_url+div.find("a").get("href") for div in main_divs]
 print(main_links)
-res = requests.get(main_links[0])
-print(res.status_code)
-soup2 = BeautifulSoup(res.content, "html.parser")
-print(soup2.prettify())
-# keys = ["title", "description", "horse_id", "image_link", "category", "color", "gender", "race", "height", "suitablity", "education", "price", "age", "location", "x_ray", "full_papers"]
+keys = ["headline", "horse_id", "img_list", "price"]
 # main_list = []
+for link, div in main_links, main_divs:
+    res = requests.get(link)
+    print(res.status_code)
+    soup2 = BeautifulSoup(res.content, "html.parser")
+    vals = []
+    data = soup2.find("div", {'id': 'details'})
+    vals.append(data.find("h1", class_="headline").text) #headline
+    print(vals)
+    vals.append(div.get("id")) #horse_id
+    print(vals)
+    img_list = [pic.get('href') for pic in data.find("div", {'id': 'media'}).find_all("a", class_="picItem")]
+    vals.append(img_list) #imgs
+    print(vals)
+    vals.append(div.find("div", class_="priceTag").text.strip()) #price
+    print(vals)
+    rows = data.find("div", class_="moreDetails").find_all("div", class_="row")
+    for row in rows: #more_details
+        keys.append(row.find("label").text.replace(" ", "_"))
+        if row.find("label").text == "more disciplines":
+            vals.append([a.text for a in row.find("span").find_all("a")])
+        elif row.find("label").text == "Further Characteristics":
+            vals.append(row.find("span").stripped_strings)
+        else:
+            vals.append(row.find("span").text)
+    print(keys)
+    print(vals)
+    desc = data.find("div", {'id': 'description'})
+    keys.append(desc.find("h3").text.strip())
+    vals.append(desc.find("div", class_="desc_en").find("pre").text.strip()) #description
+    print(vals)
+    keys.append("further_info")
+    vals.append(data.find("div", class_='description').text.strip()) #further_info
+    print(vals)
+    break
 
-# link = div.find_all("a")[0].get('href')
-# vals = []
-# ctg = div.find_all("p", {'class': 'font_8 wixui-rich-text__text'})
-# res = requests.get(link, headers=header)
-# # print(res.status_code)
-# soup2 = BeautifulSoup(res.content, "lxml")
-# # likes = soup2.find("div", id="pro-gallery-container-comp-l5z7shsl").get_text()
-# data = soup2.find("section", id="comp-l5z6paxb").find_all("div", class_="HcOXKn")
-# vals.append(data[0].get_text()) #title
-# vals.append(data[-1].get_text()) #description
-# vals.append(int(soup2.find("div", id="comp-ljbb0j4v").get_text())) #horse_id
-# vals.append(soup2.find("div", id="pro-gallery-container-comp-l5z7shsl").find("img").get('src')) #img_link
-# vals.append(ctg[0].get_text()) #category
-# vals.append(data[10].get_text()) #color
-# vals.append(data[6].get_text()) #gender
-# vals.append(data[4].get_text()) #race
-# vals.append(int(re.search(r"\d+", data[8].get_text()).group())) #height
-# vals.append(list(data[15].get_text().split(", "))) #suitability
-# vals.append(list(data[18].get_text().split(", "))) #education
-# vals.append(data[-3].get_text()) #price
-# vals.append(int(re.search(r"\d+", data[5].get_text()).group())) #age
-# vals.append(data[-5].get_text()) #location
-# vals.append(data[12].get_text()) #x_ray
-# vals.append(data[14].get_text()) #full_papers
 # main_list.append({keys[i]:vals[i] for i in range(len(keys))})
 
 # # # print(main_list)
