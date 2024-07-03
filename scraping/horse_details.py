@@ -1,27 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
-# from geopy.geocoders import Nominatim
-from random import choice
 import concurrent.futures
 import json
 
 url = "https://www.ehorses.com/Homepage/HorsesResults"
 base_url = "https://www.ehorses.com"
-user_agents = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.2420.81',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36']
 header = {
   'accept-language': 'en-US,en;q=0.9',
   'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
   'referer': 'https://www.ehorses.com/caballoria?page=horses&type=0',
-  'user-agent': choice(user_agents),
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
   'x-requested-with': 'XMLHttpRequest'
 }
-keys = ["headline", "horse-id", "img-list", "price", "more-details", "description", "further-info", "agent", "agent-type", "location", "latitude", "longitude"]
+keys = ["headline", "horse-id", "img-list", "price", "more-details", "description", "further-info"]
 main_list = []
 
 def get_data(link, div):
@@ -52,20 +43,7 @@ def get_data(link, div):
     desc = data.find("div", {'id': 'description'})
     vals.append(desc.find("pre", class_="disp_ib").text.strip()) #description
     vals.append(data.find("div", class_='description').text.lstrip("Further information\r\n\r\n\t\t\t\t\t").strip()) #further_info
-    contact = data.find("div", class_='infos').findAll(string=True)
-    vals.append(contact[2]) #agent
-    vals.append(contact[3]) #agent-type
-    vals.append(contact[5]) #location
-    # vals.append(loc.latitude) #latitude
-    vals.append(39.0516722) #latitude
-    # vals.append(loc.longitude) #longitude
-    vals.append(-0.4550355) #longitude
     main_list.append({keys[i]:vals[i] for i in range(len(keys))})
-    print(len(main_list))
-
-# lat-long
-# geolocator = Nominatim(user_agent="Chrome/125.0.0.0")
-# loc = geolocator.geocode("46666 Rafelguaraf Spain", namedetails=True)
 
 seite = 1
 while True:
