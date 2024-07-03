@@ -1,24 +1,33 @@
 import requests
 from bs4 import BeautifulSoup
-from geopy.geocoders import Nominatim
+# from geopy.geocoders import Nominatim
+from random import choice
 import concurrent.futures
 import json
 
 url = "https://www.ehorses.com/Homepage/HorsesResults"
 base_url = "https://www.ehorses.com"
+user_agents = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.2420.81',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36']
 header = {
   'accept-language': 'en-US,en;q=0.9',
   'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
   'referer': 'https://www.ehorses.com/caballoria?page=horses&type=0',
-  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+  'user-agent': choice(user_agents),
   'x-requested-with': 'XMLHttpRequest'
 }
 keys = ["headline", "horse-id", "img-list", "price", "more-details", "description", "further-info", "agent", "agent-type", "location", "latitude", "longitude"]
 main_list = []
 
 def get_data(link, div):
+    print(link)
     res = requests.get(link, headers={'accept-language': 'en-US,en;q=0.9'})
-    print(res.status_code)
+    # print(res.status_code)
     soup2 = BeautifulSoup(res.content, "lxml")
     vals = []
     data = soup2.find("div", {'id': 'details'})
@@ -26,7 +35,8 @@ def get_data(link, div):
     vals.append(div.get("id")) #horse_id
     img_list = [pic.get('href') for pic in data.find("div", {'id': 'media'}).find_all("a", class_="picItem")]
     vals.append(img_list) #imgs
-    vals.append(div.find("div", class_="priceTag").text.strip()) #price
+    price = div.find("div", class_="priceTag").text.strip()
+    vals.append(price.replace("\t", "").replace("\r", "").replace("\n", "")) #price
     rows = data.find("div", class_="moreDetails").find_all("div", class_="row")
     chr_dict = {}
     for row in rows: #more_details
@@ -40,17 +50,22 @@ def get_data(link, div):
         chr_dict.update({key : val})
     vals.append(chr_dict)
     desc = data.find("div", {'id': 'description'})
-    vals.append(desc.find("div", class_="desc_en").text.strip()) #description
+    vals.append(desc.find("pre", class_="disp_ib").text.strip()) #description
     vals.append(data.find("div", class_='description').text.lstrip("Further information\r\n\r\n\t\t\t\t\t").strip()) #further_info
     contact = data.find("div", class_='infos').findAll(string=True)
     vals.append(contact[2]) #agent
     vals.append(contact[3]) #agent-type
     vals.append(contact[5]) #location
-    geolocator = Nominatim(user_agent="Chrome/125.0.0.0")
-    loc = geolocator.geocode(contact[5], namedetails=True)
-    vals.append(loc.latitude) #latitude
-    vals.append(loc.longitude) #longitude
+    # vals.append(loc.latitude) #latitude
+    vals.append(39.0516722) #latitude
+    # vals.append(loc.longitude) #longitude
+    vals.append(-0.4550355) #longitude
     main_list.append({keys[i]:vals[i] for i in range(len(keys))})
+    print(len(main_list))
+
+# lat-long
+# geolocator = Nominatim(user_agent="Chrome/125.0.0.0")
+# loc = geolocator.geocode("46666 Rafelguaraf Spain", namedetails=True)
 
 seite = 1
 while True:
@@ -71,4 +86,4 @@ while True:
 
 # print(main_list)
 with open('ehorses.json', 'w', encoding="utf-8") as f:     
-    json.dump({"horse": main_list}, f, ensure_ascii=False, indent=4)
+    json.dump(main_list, f, ensure_ascii=False, indent=4)
