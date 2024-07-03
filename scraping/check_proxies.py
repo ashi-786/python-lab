@@ -42,34 +42,3 @@
 
 # with concurrent.futures.ThreadPoolExecutor() as exectr:
 #     exectr.map(extract, proxies)
-
-
-import re
-
-data = ['2 Beds', '2 Baths', '2,291.63 Sqft', '5.052 ac Lot Size']
-
-# Define a function to extract digits with optional decimal (for lot size)
-def extract_digits(text):
-  """
-  Extracts digits and optional decimal from a string, removing non-numeric characters.
-
-  Args:
-      text: The string to extract digits from.
-
-  Returns:
-      str: The extracted digits (including optional decimal), or an empty string if no match.
-  """
-  text = text.replace(",", "")
-  match = re.search(r'\d+(?:\.\d+)?', text)  # Capture digits and optional decimal
-  if match:
-    return match.group()
-  else:
-    return ""  # Return empty string if no digits found
-
-# Extract digits from each data point
-for item in data:
-    value = extract_digits(item)
-    if "." in value:
-        print(float(value))
-    else:
-       print(int(value))
