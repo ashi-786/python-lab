@@ -50,5 +50,5 @@ for offset in range(0, 9*7, 9):
     except:
         pass
 
-with open("horse_details.json", "w", encoding="utf-8") as f:
+with open("./media/horse_details.json", "w", encoding="utf-8") as f:
     json.dump({"horse": main_list}, f, ensure_ascii=False, indent=4)

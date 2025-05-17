@@ -14,7 +14,7 @@ user_agents = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36']
 
-with open("valid_proxies.txt", "r") as f:
+with open("./media/valid_proxies.txt", "r") as f:
     proxy = f.read().split("\n")
     proxies = [p for p in proxy]
 
@@ -50,7 +50,7 @@ for article in articles:
     # except:
     #     pass
 
-with open("books_toscrape.json", "w") as f:
+with open("./media/books_toscrape.json", "w") as f:
     json.dump(main_list, f, indent=4)
 
 # download all imgs

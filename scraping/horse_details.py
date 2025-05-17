@@ -63,5 +63,5 @@ while True:
         break
 
 # print(main_list)
-with open('ehorses.json', 'w', encoding="utf-8") as f:     
+with open('./media/ehorses.json', 'w', encoding="utf-8") as f:     
     json.dump(main_list, f, ensure_ascii=False, indent=4)

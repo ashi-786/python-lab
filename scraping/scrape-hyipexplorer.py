@@ -32,7 +32,7 @@ print(req_data)
 # for key, val in req_data.items():
 #     if "/images" in req_data[key] or "/uploads" in req_data[key]:
 #         downloaded = requests.get(req_data[key])
-#         with open(f'img{i}.jpg','wb') as f:
+#         with open(f'./media/img{i}.jpg','wb') as f:
 #             f.write(downloaded.content)
 #         i += 1
 

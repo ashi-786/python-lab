@@ -48,5 +48,5 @@ for item in res2['items']:
 vals.append(comments)
 data = {keys[i]:vals[i] for i in range(len(keys))}
 
-with open("yt_video_details.json", "w", encoding="utf-8") as f:
+with open("./media/yt_video_details.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)

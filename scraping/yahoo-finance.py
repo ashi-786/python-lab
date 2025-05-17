@@ -24,8 +24,8 @@ for table in tables:
 
 # print(main_list)
 
-with open('yahoo-finance.json', 'w') as f:     
+with open('./media/yahoo-finance.json', 'w') as f:     
     json.dump(main_list, f, indent=4)
 
 data_df = pd.DataFrame(main_list)
-data_df.to_csv('yahoo-finance.csv', index=False)
+data_df.to_csv('./media/yahoo-finance.csv', index=False)

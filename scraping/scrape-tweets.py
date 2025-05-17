@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as ec
 chromeOptions = Options()
 chromeOptions.add_argument("--start-maximized")
 
-logs = open("C:/Users/ghani/Desktop/logs.txt", 'a')
+logs = open("./media/logs.txt", 'a')
 driver = webdriver.Chrome(options=chromeOptions)
 
 try:

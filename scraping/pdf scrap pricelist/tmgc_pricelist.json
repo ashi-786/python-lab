@@ -1,0 +1,9035 @@
+[
+  {
+    "product_name": "Amadeus",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 65.0
+      },
+      {
+        "size": "30mm",
+        "price": 85.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Amadeus F",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 58.0
+      },
+      {
+        "size": "30mm",
+        "price": 80.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Amadeus F Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 82.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Andromeda White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 105.0
+      },
+      {
+        "size": "30mm",
+        "price": 125.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Angola Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 70.0
+      },
+      {
+        "size": "30mm",
+        "price": 97.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Angola Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 83.0
+      },
+      {
+        "size": "30mm",
+        "price": 115.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Angola Blue Moon",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 95.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Angola Silver",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 72.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Antique Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 130.0
+      },
+      {
+        "size": "30mm",
+        "price": 153.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Antique White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Aspen White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 89.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Azul Noche",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 65.0
+      },
+      {
+        "size": "30mm",
+        "price": 85.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Azul Noche Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 77.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Azul Platino",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 44.0
+      },
+      {
+        "size": "30mm",
+        "price": 58.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Azzurrite",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 180.0
+      },
+      {
+        "size": "30mm",
+        "price": 250.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Azzurrite Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 266.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Balmoral Red CG",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 118.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Baltic Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 82.0
+      },
+      {
+        "size": "30mm",
+        "price": 105.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Baltic Green",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 87.0
+      },
+      {
+        "size": "30mm",
+        "price": 126.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Basaltina Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 140.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bedrock Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 100.0
+      },
+      {
+        "size": "30mm",
+        "price": 128.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belfast Classic",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belfast Classic Anticato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 98.0
+      },
+      {
+        "size": "30mm",
+        "price": 124.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belfast Classic Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belfast Classic Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 98.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bethel White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 149.0
+      },
+      {
+        "size": "30mm",
+        "price": 225.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianco Crystal",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 57.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianco Ornamentale",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 89.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianco Romano",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianco Sardo",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 63.0
+      },
+      {
+        "size": "30mm",
+        "price": 83.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Agatha",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 155.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Fusion",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 180.0
+      },
+      {
+        "size": "30mm",
+        "price": 245.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Fusion Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 216.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Galaxy",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 135.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Marinace",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": 158.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Pearl",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 99.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Labrado",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Pearl GT",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 155.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Pearl LL",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 101.0
+      },
+      {
+        "size": "30mm",
+        "price": 149.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Pearl Royal",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": 155.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Cafe Imperial",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 140.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Cheyenne",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Colonial Cream",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 85.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Colonial Gold",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 98.0
+      },
+      {
+        "size": "30mm",
+        "price": 140.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Colonial White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 99.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Cosmic Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 128.0
+      },
+      {
+        "size": "30mm",
+        "price": 148.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Cosmic Black Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 130.0
+      },
+      {
+        "size": "30mm",
+        "price": 170.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Cosmic White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 119.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Dakota Mahogany",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 135.0
+      },
+      {
+        "size": "30mm",
+        "price": 203.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Elegant Grey Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 85.0
+      },
+      {
+        "size": "30mm",
+        "price": 127.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emerald Pearl Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 118.0
+      },
+      {
+        "size": "30mm",
+        "price": 158.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emerald White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 75.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Fantastic White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 138.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Fiorito",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 58.0
+      },
+      {
+        "size": "30mm",
+        "price": 86.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Ornamentale",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 89.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo SF Reale",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 96.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Topazio",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 105.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Veneziano",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 102.0
+      },
+      {
+        "size": "30mm",
+        "price": 122.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Grigio Diamante",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 32.0
+      },
+      {
+        "size": "30mm",
+        "price": 42.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Impala D",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 77.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Impala D Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 77.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Impala D Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 82.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Impala M",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 68.0
+      },
+      {
+        "size": "30mm",
+        "price": 95.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Impala M Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 68.0
+      },
+      {
+        "size": "30mm",
+        "price": 95.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Imperial White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 135.0
+      },
+      {
+        "size": "30mm",
+        "price": 172.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Indian Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Indian Black Anticato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 104.0
+      },
+      {
+        "size": "30mm",
+        "price": 134.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Indian Black Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 114.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Indian Black Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 116.0
+      },
+      {
+        "size": "30mm",
+        "price": 169.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ivory Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 135.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ivory Chiffon",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 83.0
+      },
+      {
+        "size": "30mm",
+        "price": 115.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ivory Fantasy",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 92.0
+      },
+      {
+        "size": "30mm",
+        "price": 105.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ivory White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 89.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Juperana Torrone",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 110.0
+      },
+      {
+        "size": "30mm",
+        "price": 145.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kalahari Desert",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kashmir Gold",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 105.0
+      },
+      {
+        "size": "30mm",
+        "price": 135.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kashmir Lime",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 105.0
+      },
+      {
+        "size": "30mm",
+        "price": 140.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kinawa White Piracema",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": 146.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kinawa White Piracema Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 125.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Kuru Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 74.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Labrador Antique",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 169.0
+      },
+      {
+        "size": "30mm",
+        "price": 224.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Labradorite Bianca",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 250.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lavastone Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 77.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lemurrian Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 440.0
+      },
+      {
+        "size": "30mm",
+        "price": 645.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lennon Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 142.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Millennium Cream",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 78.0
+      },
+      {
+        "size": "30mm",
+        "price": 98.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Mondariz",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 30.0
+      },
+      {
+        "size": "30mm",
+        "price": 42.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Nero Profundo",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "New Kashmir White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 71.0
+      },
+      {
+        "size": "30mm",
+        "price": 110.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "New Kashmir White I",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 90.0
+      },
+      {
+        "size": "30mm",
+        "price": 115.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "New Venetian Gold",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 70.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Nova Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 104.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Olive Green",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 100.0
+      },
+      {
+        "size": "30mm",
+        "price": 132.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Paradiso Bash",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 68.0
+      },
+      {
+        "size": "30mm",
+        "price": 60.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Pink Porrino",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 33.0
+      },
+      {
+        "size": "30mm",
+        "price": 43.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Porto Branco",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 117.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Pretoria Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rainbow Bordeaux",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 87.0
+      },
+      {
+        "size": "30mm",
+        "price": 125.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rainbow White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 87.0
+      },
+      {
+        "size": "30mm",
+        "price": 125.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "River White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 96.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "River White Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosa Beta",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 41.0
+      },
+      {
+        "size": "30mm",
+        "price": 76.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosa Limbara",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 49.0
+      },
+      {
+        "size": "30mm",
+        "price": 69.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosewood",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 71.0
+      },
+      {
+        "size": "30mm",
+        "price": 91.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Sapphire Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 69.0
+      },
+      {
+        "size": "30mm",
+        "price": 104.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Sea Wave Cosmic",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 124.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Sea Wave Cosmic Caress",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 126.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Sequoia Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 157.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Silver Cloud",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 93.0
+      },
+      {
+        "size": "30mm",
+        "price": 129.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Silver Forest",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 122.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Silver Forest Caress",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 75.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Stargate",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 102.0
+      },
+      {
+        "size": "30mm",
+        "price": 145.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Steel Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 70.0
+      },
+      {
+        "size": "30mm",
+        "price": 90.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Steel Grey Caress",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 72.0
+      },
+      {
+        "size": "30mm",
+        "price": 92.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Steel Grey Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 72.0
+      },
+      {
+        "size": "30mm",
+        "price": 92.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Suede (Coffee Brown)",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": 104.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Surf Green",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 105.0
+      },
+      {
+        "size": "30mm",
+        "price": 140.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Tan Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 86.0
+      },
+      {
+        "size": "30mm",
+        "price": 112.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Teak Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 75.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Titanium Black",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 118.0
+      },
+      {
+        "size": "30mm",
+        "price": 155.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Tropic Brown",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 117.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Tropical Storm",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 160.0
+      },
+      {
+        "size": "30mm",
+        "price": 210.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ubatuba",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 58.0
+      },
+      {
+        "size": "30mm",
+        "price": 88.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Verde Marina",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 70.0
+      },
+      {
+        "size": "30mm",
+        "price": 90.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Verde Marinace",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 155.0
+      },
+      {
+        "size": "30mm",
+        "price": 202.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Viscont White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 77.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Vizag Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Volga Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 139.0
+      },
+      {
+        "size": "30mm",
+        "price": 185.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Volga Blue Dark",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 150.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Diamante",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 45.0
+      },
+      {
+        "size": "30mm",
+        "price": 53.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Topazio",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 82.0
+      },
+      {
+        "size": "30mm",
+        "price": 108.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe Anticato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 119.0
+      },
+      {
+        "size": "30mm",
+        "price": 152.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe M",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 138.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe M Anticato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 168.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe M Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 148.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe M Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 150.0
+      },
+      {
+        "size": "30mm",
+        "price": 207.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 117.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe M",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": 201.0
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Zimbabwe",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": 77.0
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Amazonite Cristallo",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 495.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belvedere",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 170.0
+      },
+      {
+        "size": "30mm",
+        "price": 230.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belvedere Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 235.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 209.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia Calacatta",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 245.0
+      },
+      {
+        "size": "30mm",
+        "price": 332.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia G",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 215.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": 320.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia W",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 218.0
+      },
+      {
+        "size": "30mm",
+        "price": 272.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianca Eclipsia W Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 210.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Caravaggio",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 290.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Mare",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 190.0
+      },
+      {
+        "size": "30mm",
+        "price": 270.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Roma",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 220.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Explosion Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 320.0
+      },
+      {
+        "size": "30mm",
+        "price": 420.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Extreme White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 220.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Fusion Wow",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 315.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Green Army",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 180.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Green Maestro",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 290.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lumix Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 390.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Macaubas White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 199.0
+      },
+      {
+        "size": "30mm",
+        "price": 265.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Macaubas White CB",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 251.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Macaubas White VC",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 240.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Naica",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": 318.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Patagonia",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 400.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Patagonia Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 510.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Polaris White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 255.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "San Simone",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 190.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Sea Pearl",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 190.0
+      },
+      {
+        "size": "30mm",
+        "price": 260.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Taj Mahal",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 235.0
+      },
+      {
+        "size": "30mm",
+        "price": 320.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Taj Mahal Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 250.0
+      },
+      {
+        "size": "30mm",
+        "price": 340.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Toblerone",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 230.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Vancouver",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 190.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Carrara",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 124.0
+      },
+      {
+        "size": "30mm",
+        "price": 164.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Carrara Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 124.0
+      },
+      {
+        "size": "30mm",
+        "price": 164.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Corchia",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 255.0
+      },
+      {
+        "size": "30mm",
+        "price": 350.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Corchia Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 320.0
+      },
+      {
+        "size": "30mm",
+        "price": 435.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Corchia Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 320.0
+      },
+      {
+        "size": "30mm",
+        "price": 435.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Vagli",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 195.0
+      },
+      {
+        "size": "30mm",
+        "price": 275.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Vagli Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 270.0
+      },
+      {
+        "size": "30mm",
+        "price": 375.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Arabescato Vagli Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 210.0
+      },
+      {
+        "size": "30mm",
+        "price": 255.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Atlantic Sky Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 235.0
+      },
+      {
+        "size": "30mm",
+        "price": 310.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Aurora Fantasy",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 75.0
+      },
+      {
+        "size": "30mm",
+        "price": 88.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bardiglio Nuvolato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bardiglio Nuvolato Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 93.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Belgian Blue Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bianco Neve",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 199.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bleu de Savoie",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 345.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Blue Siena",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 195.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Botticino Classico Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 85.0
+      },
+      {
+        "size": "30mm",
+        "price": 115.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Botticino Fiorito",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 64.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Breccia Capraia",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 320.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Breccia Pernice",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 145.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Breccia Sarda",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 77.0
+      },
+      {
+        "size": "30mm",
+        "price": 102.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Breccia Taurus",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 122.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Breche Nouvelle",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 260.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 310.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Colorado",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 319.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Corchia",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 310.0
+      },
+      {
+        "size": "30mm",
+        "price": 435.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Corchia Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 310.0
+      },
+      {
+        "size": "30mm",
+        "price": 435.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 350.0
+      },
+      {
+        "size": "30mm",
+        "price": 425.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro Borghini",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 515.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro Borghini Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 675.0
+      },
+      {
+        "size": "30mm",
+        "price": 885.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 645.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 645.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Oro Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 350.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Portoro",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Vagli",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 300.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Viola",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 275.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Viola Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 420.0
+      },
+      {
+        "size": "30mm",
+        "price": 595.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Viola Monet",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Viola Monet Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 475.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Viola Monet Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Crema Marfil Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 96.0
+      },
+      {
+        "size": "30mm",
+        "price": 135.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emperador Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 145.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emperador Light",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 94.0
+      },
+      {
+        "size": "30mm",
+        "price": 126.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emperador Silver",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 97.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emperador Silver Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 97.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Emperador White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 170.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Equator",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 100.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Fantastico Arni",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 240.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Fior di Bosco",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 170.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Fior di Pesco",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 145.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Siena",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 210.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Giallo Siena Brocatello",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 290.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Green Guatemala",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 79.0
+      },
+      {
+        "size": "30mm",
+        "price": 102.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Grigio Carnico",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Hermes Grey (Versilys)",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Iceberg",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Iceberg Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Invisible",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 295.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lilac Milas",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 130.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Lilac Milas Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 199.0
+      },
+      {
+        "size": "30mm",
+        "price": 205.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Marron Imperial",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 73.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Namibian White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 210.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Nero Marquina",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": 110.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Nero Seta",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 128.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Noir St Laurent",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 350.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Norwegian Rose",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 250.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Onyx Multicolour",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 360.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Onyx White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 245.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Palisandro Bluette",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 150.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Palisandro Classico",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 120.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Panda White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 268.0
+      },
+      {
+        "size": "30mm",
+        "price": 378.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Pietra Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 110.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Portoro",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 350.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosso Alicante",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 106.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosso Levanto",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 146.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosso Luana",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 230.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosso Verona",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Royal White",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 110.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ruivina",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 54.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Savannah Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": 105.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Savannah Grey Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 80.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Silk Georgette",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 158.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Silver Wave",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 152.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Soapstone Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 235.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Statuarietto Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 263.0
+      },
+      {
+        "size": "30mm",
+        "price": 398.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Statuario 1st",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 330.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Terre di Bolgheri",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 125.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Thassos",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 235.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Classic Cross Cut Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 75.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Crystal Filled",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 65.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Navona",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 155.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Noce Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 61.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Roman Classic",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 125.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Roman Classic Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 180.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Travertine Silver Filled",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 100.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Tundra Grey",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 93.0
+      },
+      {
+        "size": "30mm",
+        "price": 140.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Verde Alpi",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 160.0
+      },
+      {
+        "size": "30mm",
+        "price": 220.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Volakas Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 108.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 124.0
+      },
+      {
+        "size": "30mm",
+        "price": 167.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra 1st",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 137.0
+      },
+      {
+        "size": "30mm",
+        "price": 193.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra 1st Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 137.0
+      },
+      {
+        "size": "30mm",
+        "price": 193.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 124.0
+      },
+      {
+        "size": "30mm",
+        "price": 167.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 95.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara CD Extra",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 82.0
+      },
+      {
+        "size": "30mm",
+        "price": 112.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara CD Extra 1st",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara CD Extra 1st Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": 120.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara CD Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 79.0
+      },
+      {
+        "size": "30mm",
+        "price": 112.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Calacatta Sawn",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": 715.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": 220.0
+      },
+      {
+        "size": "50mm",
+        "price": 275.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Extra Sawn",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": 510.0
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": 180.0
+      },
+      {
+        "size": "50mm",
+        "price": 230.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "White Carrara C Sawn",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": 380.0
+      }
+    ]
+  },
+  {
+    "product_name": "Azul Ataija Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 48.0
+      },
+      {
+        "size": "30mm",
+        "price": 64.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bateig Beige Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 47.0
+      },
+      {
+        "size": "30mm",
+        "price": 65.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Bateig Blue Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 47.0
+      },
+      {
+        "size": "30mm",
+        "price": 65.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": 110.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Slate Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 100.0
+      },
+      {
+        "size": "30mm",
+        "price": 130.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Slate I Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 110.0
+      },
+      {
+        "size": "30mm",
+        "price": 150.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Slate I Riven",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 147.0
+      },
+      {
+        "size": "30mm",
+        "price": 197.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Slate I Satinato",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 115.0
+      },
+      {
+        "size": "30mm",
+        "price": 155.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Black Slate Riven",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 130.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Ivory Regy Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 40.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Jura Beige",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 78.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Jura Blue",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 88.0
+      },
+      {
+        "size": "30mm",
+        "price": 99.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Jura Blue Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 88.0
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Mandale Derbyshire Fossil",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 255.0
+      },
+      {
+        "size": "30mm",
+        "price": 365.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Moleanos Blue Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 48.0
+      },
+      {
+        "size": "30mm",
+        "price": 64.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Moleanos Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 41.0
+      },
+      {
+        "size": "30mm",
+        "price": 52.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "New Cream Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 85.0
+      },
+      {
+        "size": "30mm",
+        "price": 106.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": 180.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Pietra Serena Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 64.0
+      },
+      {
+        "size": "30mm",
+        "price": 80.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Rosal Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 41.0
+      },
+      {
+        "size": "30mm",
+        "price": 52.0
+      },
+      {
+        "size": "40mm",
+        "price": 61.0
+      },
+      {
+        "size": "50mm",
+        "price": 71.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Semi Rijo Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 60.0
+      },
+      {
+        "size": "30mm",
+        "price": 82.0
+      },
+      {
+        "size": "40mm",
+        "price": 102.0
+      },
+      {
+        "size": "50mm",
+        "price": 127.0
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Verde Ardesia Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 62.0
+      },
+      {
+        "size": "30mm",
+        "price": 78.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "Vratza Extra Honed",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": 62.0
+      },
+      {
+        "size": "30mm",
+        "price": 85.0
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": null
+      }
+    ]
+  },
+  {
+    "product_name": "New Cream Sawn",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": 265.0
+      }
+    ]
+  },
+  {
+    "product_name": "Rosal Sawn",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": 108.0
+      }
+    ]
+  },
+  {
+    "product_name": "Rosal Sawn 100mm",
+    "prices": [
+      {
+        "size": "12mm",
+        "price": null
+      },
+      {
+        "size": "20mm",
+        "price": null
+      },
+      {
+        "size": "30mm",
+        "price": null
+      },
+      {
+        "size": "40mm",
+        "price": null
+      },
+      {
+        "size": "50mm",
+        "price": null
+      },
+      {
+        "size": "80mm",
+        "price": 134.0
+      }
+    ]
+  },
+  {
+    "product_name": "Eff Erayza (946ml) 1",
+    "price": 17.5
+  },
+  {
+    "product_name": "Fila CR10 (1l) 1",
+    "price": 21.1
+  },
+  {
+    "product_name": "Fila Deterdek (1l) 1",
+    "price": 7.5
+  },
+  {
+    "product_name": "Fila PS87 (1l) 1",
+    "price": 14.4
+  },
+  {
+    "product_name": "Fila Zerosil (250ml) 1",
+    "price": 11.0
+  },
+  {
+    "product_name": "Intensifia (946ml) 1",
+    "price": 51.0
+  },
+  {
+    "product_name": "Meta Creme (946ml) 1",
+    "price": 45.0
+  },
+  {
+    "product_name": "Meta Creme (946ml) Box of 12",
+    "price": 536.64
+  },
+  {
+    "product_name": "Oxy Klenza (1kg) 1",
+    "price": 17.5
+  },
+  {
+    "product_name": "Rejuvenata (473ml) 1",
+    "price": 12.24
+  },
+  {
+    "product_name": "Rejuvenata (473ml) Box of 24",
+    "price": 293.0
+  },
+  {
+    "product_name": "Rejuvenata Active (946ml) 1",
+    "price": 14.8
+  },
+  {
+    "product_name": "Stain Proof Original (3.79l) 1",
+    "price": 148.0
+  },
+  {
+    "product_name": "Stain Proof Original (946ml) 1",
+    "price": 39.76
+  },
+  {
+    "product_name": "Stain Proof Original (946ml) Box of 12",
+    "price": 477.0
+  },
+  {
+    "product_name": "Stain Proof Plus (473ml) 1",
+    "price": 32.0
+  },
+  {
+    "product_name": "Stone & Masonry Cleaner (946ml) 1",
+    "price": 11.2
+  },
+  {
+    "product_name": "Zimbabwe Sealer (1l) 1",
+    "price": 55.0
+  }
+]

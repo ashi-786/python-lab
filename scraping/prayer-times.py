@@ -56,7 +56,7 @@ try:
             pass
         finally:
             c += 1
-    with open('prayer-times.json', 'w') as f:     
+    with open('./media/prayer-times.json', 'w') as f:     
         json.dump(main_dict, f, indent=4)
 except:
     print("Failed")
